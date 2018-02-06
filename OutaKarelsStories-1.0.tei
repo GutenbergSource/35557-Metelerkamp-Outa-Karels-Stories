@@ -1,0 +1,1841 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=en>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Outa Karel&apos;s Stories</title>
+<author key="Metelerkamp, Sanni" ref="https://viaf.org/viaf/280857388/">Sanni Metelerkamp (1867&ndash;1945)</author>
+<respStmt><resp>Illustrator</resp> <name key="Penstone, Constance" ref="https://viaf.org/viaf/173507556/">Constance Penstone (1864&ndash;1928)</name></respStmt>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OLN>OL7170951M</idno>
+<idno type=OCLC>562476426</idno>
+<idno type=epub-id>urn:uuid:f49ce6c6-2c90-4504-8eff-c46b4b429a43</idno>
+<idno type=PGclearance>20090112070436metelerkam</idno>
+<idno type=PGDPProjectId>projectID497b52adc7a4a</idno>
+<idno type=PGSrc>35557-Metelerkamp-Outa-Karels-Stories</idno>
+<idno type=PGnum>35557</idno>
+<date>2011-03-12</date>
+<availability>
+<p>&availability.en;
+
+<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref> from a copy available at <xref url="http://www.archive.org/details/outakarelsstorie00mete">The Internet Archive</xref>. (<xref url="http://www.archive.org/details/outakarelsstorie00meterich">Another copy</xref>).
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">A collection of Bushman tales as adopted by the Boer settlers of South Africa, with a large number of Afrikaans words sprinkled in.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Sanni Metelerkamp</author>
+<title>Outa Karel&apos;s Stories</title>
+<date>1914</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<p>
+
+</encodingDesc>
+<profileDesc>
+    <langUsage>
+        <language id=en>English</language>
+        <language id=af>Afrikaans</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>Tales, African -- South Africa</item>
+                <item>Folklore, African -- South Africa</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2011-03-12 Started.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text>
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/frontcover.jpg)">
+<figDesc>Original Front Cover.</figDesc>
+</figure>
+
+
+<div1 type=FrenchTitle id=french>
+
+<p rend="align(center)">Outa Karel&apos;s Stories
+
+
+
+
+<pb n=ii>
+<div1 id=imprint type=Imprint>
+
+
+<p rend="align(center)"><figure id=logo rend="image(images/logo.png)">
+<figDesc>Original Publisher Logo; monogram M. M. &amp; Co.</figDesc>
+</figure>
+
+<p rend="align(center)">Macmillan and Co., <hi rend=sc>Limited</hi>
+<lb>London · Bombay · Calcutta
+<lb>Melbourne
+
+<p rend="align(center)">The Macmillan Company
+<lb>New York · Boston · Chicago
+<lb>Dallas · San Francisco
+
+<p rend="align(center)">The Macmillan Co. of Canada, <hi rend=sc>Ltd.</hi>
+<lb>Toronto
+
+
+
+
+<div1 type=Frontispiece id=frontis>
+
+
+<p><figure id=p000>
+<head>Outa Karel and Little Jan&mdash;The Little Red Tortoise</head>
+
+<p rend="align(right)"><hi>Frontispiece</hi>
+</figure>
+
+<pb n=iii>
+<div1 id=tp type=TitlePage>
+
+
+<p><figure id=titlepage rend="image(images/titlepage.gif)">
+<figDesc>Original Title Page.</figDesc>
+</figure>
+
+
+
+<titlePage>
+<docTitle><titlePart>Outa Karel&apos;s Stories</titlePart>
+
+<titlePart type=sub>South African Folk-Lore Tales</titlePart>
+
+<byline>By
+<lb><docAUthor>Sanni Metelerkamp</docAuthor>
+
+<lb>With illustrations by <docAuthor>Constance Penstone</docAuthor>
+</byline>
+
+
+<docImprint>Macmillan and Co., Limited
+<lb>St. Martin&apos;s Street, London
+<lb><docDate>1914</docDate>
+</titlePage>
+
+
+<pb n=iv>
+<div1 id=copyright type=Copyright>
+
+<p rend="align(center)"><hi>Copyright</hi>
+
+
+<pb n=v>
+<div1 type=Dedication id=dedication>
+
+
+<p rend="align(center)">To all children
+<lb>young and old
+<lb>who love a folk-lore story
+
+
+
+
+<pb n=vii>
+<div1 id=foreword type=Foreword>
+<head>Foreword.</head>
+
+
+<p>My thanks are due to Dr. Maitland Park, Editor of <hi>The Cape Times</hi>, and Adv. B. K. Long, M.L.A., Editor of <hi>The State</hi>, for their kind permission to republish such of these tales as have appeared in their papers.
+
+<p>For the leading idea in &ldquo;The Sun&rdquo; and &ldquo;The Stars and the Stars&apos; Road,&rdquo; I gladly acknowledge my indebtedness to that monument of patient labour and research, &ldquo;Specimens of Bushman Folk-lore,&rdquo; by the late Dr. Bleek and Miss Lucy Lloyd.
+
+<p>Further, I lay no claim to originality for any of the stories in this collection&mdash;at best a very small proportion of a vast store from which the story-teller of the future may draw, embodying the superstitions, the crude conceptions, the childish ideas of a primitive and rapidly disappearing people. They are known in some form or other wherever the <pb n=viii>negro has set foot, and are the common property of every country child in South Africa.
+
+<p>I greatly regret that they appear here in what is, to them, a foreign tongue. No one who has not heard them in the <hi lang=af>Taal</hi>&mdash;that quaint, expressive language of the people&mdash;can have any idea of what they lose through translation, but, having been written in the first instance for English publications, the original medium was out of the question.
+
+<p>Clear cold evenings, with a pleasant tang of frost in the air, figure here and there in these pages, but as I write other scenes, too, flit across the lighted screen of Memory&mdash;noontides of tropic heat with all the world sunk in a languorous slumber, glowing sunsets, throbbing summer nights when the stars seemed to tremble almost within one&apos;s reach, moonlit spaces filled with soft mystery and the thousand seductive voices of the pulsing southern night. And always, part and parcel of the passing panorama, the quaint figure of the old Native with his little masters....
+
+<pb n=ix><p>It is nearly three years now since &ldquo;Old Friend Death&rdquo; took him gently by the hand and led him away to that far, far country of which he had such vague ideas, so he tells no more stories by the firelight in the gloaming; and his little masters&mdash;children no longer&mdash;are claimed by graver tasks and wider interests. But in the hope that others, both little ones and children of a larger growth, may find the same pleasure in these tales of a childlike race, they are sent out to find their own level and take their chance in the workaday world.
+
+
+<p rend="class(signed)">S. M.
+
+<p rend="class(dateline)"><hi rend=sc>Cape Town</hi>, <hi>January, 1914</hi>.
+
+
+
+
+<pb n=xi>
+<div1 type=Contents id=toc>
+<head>Contents.</head>
+
+
+<list type=tocList>
+<item>                                            <ab type=tocPageNum>Page</ab>
+<item><ab type=tocDivNum>I.</ab> <hi rend=sc><ref target=ch1>The Place and the People</ref></hi>       <ab type=tocPageNum>1</ab>
+<item><ab type=tocDivNum>II.</ab> <hi rend=sc><ref target=ch2>How Jakhals Fed Oom Leeuw</ref></hi>       <ab type=tocPageNum>12</ab>
+<item><ab type=tocDivNum>III.</ab> <hi rend=sc><ref target=ch3>Who was King?</ref></hi>       <ab type=tocPageNum>29</ab>
+<item><ab type=tocDivNum>IV.</ab> <hi rend=sc><ref target=ch4>Why the Hyena is Lame</ref></hi>       <ab type=tocPageNum>43</ab>
+<item><ab type=tocDivNum>V.</ab> <hi rend=sc><ref target=ch5>Who was the Thief?</ref></hi>       <ab type=tocPageNum>47</ab>
+<item><ab type=tocDivNum>VI.</ab> <hi rend=sc><ref target=ch6>The Sun</ref></hi>       <ab type=tocPageNum>54</ab>
+<item><ab type=tocDivNum>VII.</ab> <hi rend=sc><ref target=ch7>The Stars and the Stars&apos; Road</ref></hi>       <ab type=tocPageNum>63</ab>
+<item><ab type=tocDivNum>VIII.</ab> <hi rend=sc><ref target=ch8>Why the Hare&apos;s Nose is Slit</ref></hi>       <ab type=tocPageNum>70</ab>
+<item><ab type=tocDivNum>IX.</ab> <hi rend=sc><ref target=ch9>How the Jackal got his Stripe</ref></hi>       <ab type=tocPageNum>78</ab>
+<item><ab type=tocDivNum>X.</ab> <hi rend=sc><ref target=ch10>The Animals&apos; Dam</ref></hi>       <ab type=tocPageNum>88</ab>
+<item><ab type=tocDivNum>XI.</ab> <hi rend=sc><ref target=ch11>Saved by his Tail</ref></hi>       <ab type=tocPageNum>101</ab>
+<item><ab type=tocDivNum>XII.</ab> <hi rend=sc><ref target=ch12>The Flying Lion</ref></hi>       <ab type=tocPageNum>108</ab>
+<item><ab type=tocDivNum>XIII.</ab> <hi rend=sc><ref target=ch13>Why the Heron has a Crooked Neck</ref></hi>       <ab type=tocPageNum>118</ab>
+<item><ab type=tocDivNum>XIV.</ab> <hi rend=sc><ref target=ch14>The Little Red Tortoise</ref></hi>       <ab type=tocPageNum>128</ab>
+<item><ab type=tocDivNum>XV.</ab> <hi rend=sc><ref target=ch15>The Ostrich Hunt</ref></hi>       <ab type=tocPageNum>139</ab>
+</list>
+
+
+<pb n=xiii>
+<div1 id=loi>
+<head>Illustrations.</head>
+
+
+<list>
+<item>                                            <ab type=tocPageNum>Page</ab>
+<item><ref target=p000>Outa Karel and Little Jan&mdash;The Little Red Tortoise</ref>       <ab type=tocPageNum><hi>Frontispiece</hi></ab>
+<item><ref target=p064>&ldquo;The Stars&apos; Road&rdquo;</ref>     <ab type=tocPageNum>64</ab>
+<item><ref target=p081>&ldquo;The women with their babies on their backs, flew&rdquo;</ref>        <ab type=tocPageNum>81</ab>
+<item><ref target=p099>The punishment of Broer Babiaan</ref>       <ab type=tocPageNum>99</ab>
+<item><ref target=p136>&ldquo;&lsquo;Do you know, little Red Tortoise, in one moment I could swallow you.&rsquo;&rdquo;</ref>      <ab type=tocPageNum>136</ab>
+<item><ref target=p144>&ldquo;The Ostriches ran faster and faster&rdquo;</ref>     <ab type=tocPageNum>144</ab>
+</list>
+
+
+
+
+<pb n=xv>
+<div1 type=Glossary id=glossary>
+<head>Glossary.</head>
+
+
+<list>
+<item><hi rend=bold lang=af>Awa-skin</hi>, skin slung across the back to carry babies in.
+<item><hi rend=bold lang=af>Askoekies</hi>, cakes baked in the ash.
+
+<item><hi rend=bold lang=af>Baas</hi>, master.
+<item><hi rend=bold lang=af>Baasje</hi> (pronounced Baasie), little master.
+<item><hi rend=bold lang=af>Babiaan</hi>, baboon.
+<item><hi rend=bold lang=af>Berg schilpad</hi>, mountain tortoise.
+<item><hi rend=bold lang=af>Biltong</hi>, strips of sun-dried meat.
+<item><hi rend=bold lang=af>Bolmakissie</hi>, head over heels.
+<item><hi rend=bold lang=af>Bossies</hi>, bushes.
+<item><hi rend=bold lang=af>Broer</hi>, brother.
+<item><hi rend=bold lang=af>Buchu</hi>, an aromatic veld herb.
+
+<item><hi rend=bold lang=af>Carbonaatje</hi>, grilled chop.
+
+<item><hi rend=bold lang=af>Dassie</hi>, rock-rabbit.
+
+<item><hi rend=bold lang=af>Eintje</hi>, an edible veld root.
+
+<item><hi rend=bold lang=af>Gezondheid!</hi> Your health!
+
+<item><hi rend=bold lang=af>Haasje</hi>, little hare.
+<item><hi rend=bold lang=af>Hamel</hi>, wether.
+
+<item><hi rend=bold lang=af>Jakhals draaie</hi>, tricky turns.
+
+<item><hi rend=bold lang=af>Kaross</hi>, skin rug.
+<item><hi rend=bold lang=af>Kierie</hi>, a thick stick.
+<item><hi rend=bold lang=af>Klein koning</hi>, little king.
+<item><hi rend=bold lang=af>Kneehaltered</hi>, hobbled.
+<item><hi rend=bold lang=af>Kopdoek</hi>, turban.
+<item><hi rend=bold lang=af>Kopje</hi>, hill.
+<item><hi rend=bold lang=af>Krantz</hi>, precipice.
+<item><hi rend=bold lang=af>Kraal</hi>, enclosure.
+
+<item><hi rend=bold lang=af>Lammervanger</hi>, eagle.
+<item><hi rend=bold lang=af>Leeuw</hi>, lion.
+
+<item><hi rend=bold lang=af>Maanhaar</hi>, mane.
+<item><hi rend=bold lang=af>Mensevreter</hi>, cannibal.
+
+<item><hi rend=bold lang=af>Neef</hi>, nephew.
+<item><hi rend=bold lang=af>Nooi</hi>, lady or mistress.
+<item><hi rend=bold lang=af>Nonnie</hi>, young lady, miss.
+
+<item><hi rend=bold lang=af>Oom</hi>, uncle.
+<item><hi rend=bold lang=af>Outa</hi>, old man, prefix to the name of old natives.
+
+<item><hi rend=bold lang=af>Pronk</hi>, show off.
+
+<item><hi rend=bold lang=af>Reijer</hi>, heron.
+<pb n=xvi><item><hi rend=bold lang=af>Riem</hi>, leathern thong.
+<item><hi rend=bold lang=af>Rustband</hi>, couch.
+
+<item><hi rend=bold lang=af>Sassaby</hi> or <hi rend=bold lang=af>Sessebe</hi>, a South African antelope.
+<item><hi rend=bold lang=af>Schelm</hi>, rogue; sly.
+<item><hi rend=bold lang=af>Schilpad</hi>, tortoise.
+<item><hi rend=bold lang=af>Sjambok</hi>, whip of rhino or hippo hide.
+<item><hi rend=bold lang=af>Skraal windje</hi>, fine cutting wind.
+<item><hi rend=bold lang=af>Skrik</hi>, to be startled; <hi>also</hi> fright.
+<item><hi rend=bold lang=af>Slim</hi>, cunningly clever.
+<item><hi rend=bold lang=af>Smouse</hi>, pedlar.
+<item><hi rend=bold lang=af>Soopje</hi>, tot.
+
+<item><hi rend=bold lang=af>Taai</hi>, tough.
+<item><hi rend=bold lang=af>Tante</hi>, aunt.
+<item><hi rend=bold lang=af>Tarentaal</hi>, Guinea fowl.
+<item><hi rend=bold lang=af>Tover</hi>, <hi rend=bold lang=af>toverij</hi>, witchcraft.
+
+<item><hi rend=bold lang=af>Vaabond</hi>, vagabond.
+<item><hi rend=bold lang=af>Vlakte</hi>, plain.
+<item><hi rend=bold lang=af>Voertsed</hi>, jumping aside suddenly and violently.
+<item><hi rend=bold lang=af>Volk</hi>, coloured farm labourers.
+<item><hi rend=bold lang=af>Volstruis</hi>, ostrich.
+<item><hi rend=bold lang=af>Vrouw</hi>, wife.
+<item><hi rend=bold lang=af>Vrouwmens</hi>, woman.
+
+<item><hi rend=bold lang=af>Zandkruiper</hi>, sand-crawler.
+</list>
+
+
+<pb id=pb1 n=1>
+</front>
+<body>
+<div1 n=I id=ch1 type=Chapter>
+<head type=label>I.</head>
+
+<head>The Place and the People.</head>
+
+
+<p>It was winter in the Great Karroo. The evening air was so crisp and cutting that one seemed to <hi>hear</hi> the crick-crack of the frost, as it formed on the scant vegetation. A <hi>skraal windje</hi> blew from the distant mountains, bringing with it a mingled odour of karroo-bush, sheep-kraals, and smoke from the Kafir huts&mdash;none, perhaps, desirable in itself, but all so blent and purified in that rare, clear atmosphere, and so subservient to the exhilarating freshness, that Pietie van der Merwe took several sniffs of pleasure as he peered into the pale moonlight over the lower half of the divided door. Then, with a little involuntary shiver, he closed the upper portion and turned to the ruddy <pb id=pb2 n=2>warmth of the purring fire, which Willem was feeding with mealie-cobs from the basket beside him.
+
+<p>Little Jan sat in the corner of the wide, old-fashioned rustbank, his large grey eyes gazing wistfully into the red heart of the fire, while his hand absently stroked Torry, the fox terrier, curled up beside him.
+
+<p>Mother, in her big Madeira chair at the side table, yawned a little over her book; for, winter or summer, the mistress of a karroo farm leads a busy life, and the end of the day finds her ready for a well-earned rest.
+
+<p>Pietie held his hands towards the blaze, turning his head now and again towards the door at the far end of the room. Presently this opened and father appeared, comfortably and leisurely, as if such things as shearing, dipping, and ploughing were no part of his day&apos;s work. Only the healthy tan, the broad shoulders, the whole well-developed physique proclaimed his strenuous, open-air life. His eye rested with pleasure on the scene before him&mdash;the bright fire, throwing gleam and <pb id=pb3 n=3>shadow on painted wall and polished woodwork, and giving a general air of cosiness to everything; the table spread for the evening meal; the group at the fireside; and his dear helpmate who was responsible for the comfort and happiness of his well-appointed home.
+
+<p>He was followed in a moment by Cousin Minnie, the bright-faced young governess. Their coming caused a stir among the children. Little Jan slowly withdrew his gaze from the fire, and, with more energy than might have been expected from his dreamy look, pushed and prodded the sleeping terrier along the rustbank so as to make room for Cousin Minnie.
+
+<p>Pietie sprang to his father&apos;s side. &ldquo;<hi>Now</hi> may I go and call Outa Karel?&rdquo; he asked eagerly, and at an acquiescent &ldquo;Yes, my boy,&rdquo; away he sped.
+
+<p>It was a strange figure that came at his bidding, shuffling, stooping, halting, and finally emerging into the firelight. A stranger might have been forgiven for fleeing in terror, for the new arrival looked like nothing <pb id=pb4 n=4>so much as an ancient and muscular gorilla in man&apos;s clothes, and walking uncertainly on its hind legs.
+
+<p>He was not quite four feet in height, with shoulders and hips disproportionately broad, and long arms, the hands of which reached midway between knee and ankle. His lower limbs were clothed in nondescript garments fashioned from wildcat and dassie skins; a faded brown coat, which from its size had evidently once belonged to his master, hung nearly to his knees; while, when he removed his shapeless felt hat, a red kopdoek was seen to be wound tightly round his head. No one had ever seen Outa Karel without his kopdoek, but it was reported that the head it covered was as smooth and devoid of hair as an ostrich egg.
+
+<p>His yellow-brown face was a network of wrinkles, across which his flat nose sprawled broadly between high cheekbones; his eyes, sunk far back into his head, glittered dark and beady like the little wicked eyes of a snake peeping from the shadow of a hole in <pb id=pb5 n=5>the rocks. His wide mouth twisted itself into an engaging grin, which extended from ear to ear, as, winking and blinking his bright little eyes, he twirled his old hat in his claw-like hands and tried to make obeisance to his master and mistress.
+
+<p>The attempt was unsuccessful on account of the stiffness of his joints, but it never failed to amuse those who, times without number, had seen it repeated. To those who witnessed it for the first time it was something to be remembered&mdash;the grotesque, disproportionate form; the ape-like face, that yet was so curiously human; the humour and kindness that gleamed from the cavernous eyes, which seemed designed to express only malevolence and cunning; the long waving arms and crooked fingers; the yellow skin for all the world like a crumpled sheet of india-rubber pulled in a dozen different directions.
+
+<p>That he was a consummate actor, and, not to put too fine a point on it, an old humbug of the first water, goes without saying, for <pb id=pb6 n=6>these characteristics are inherent in the native nature. But in spite of this, and the uncanniness of his appearance, there was something about Outa Karel that drew one to him. Of his real devotion to his master and the &ldquo;beautiful family Van der Merwe,&rdquo; there could be no question; while, above everything, was the feeling that here was one of an outcast race, one of the few of the original inhabitants who had survived the submerging tide of civilization; who, knowing no law but that of possession, had been scared and chased from their happy hunting grounds, first by the Hottentots, then by the powerful Bantu, and later by the still more terrifying palefaced tribes from over the seas. Though the origin of the Bushman is lost in the mists of antiquity, the Hottentot conquest of him is a matter of history, and it is well known that the victors were in the habit, while killing off the men, to take unto themselves wives from among the women of the vanquished race. Hence the fact that a perfect specimen of a Bushman is a <hi>rara avis</hi>, even <pb id=pb7 n=7>in the localities where the last remnants are known to linger.
+
+<p>Outa Karel could hardly be called a perfect specimen of the original race, for, though he always spoke of himself as wholly Bushman, there was a strong strain of the Hottentot about him, chiefly noticeable in his build.
+
+<p>He spoke in Dutch, in the curiously expressive voice belonging to these people, just now honey-sweet with the deference he felt for his superiors.
+
+<p>&ldquo;Ach toch! Night, Baas. Night, Nooi. Night, Nonnie and my little baasjes. Excuse that this old Bushman does not bend to greet you; the will is there, but his knees are too stiff. Thank you, thank you, my baasje,&rdquo; as Pietie dragged a low stool, covered with springbok skin, from under the desk in the recess and pushed it towards him. He settled himself on it slowly and carefully, with much creaking of joints and many strange native ejaculations.
+
+<p>The little group had arranged itself anew. Cousin Minnie was in the cosy corner of the <pb id=pb8 n=8>rustbank near the wall, little Jan next her with his head against her, and Torry&apos;s head on his lap&mdash;this attention to make up for his late seeming unkindness in pushing him away.
+
+<p>Pappa, with his magazine, was at the other end of the rustbank where he could, if he chose, speak to Mamma in a low tone, or peep over to see how her book was getting on. Willem had pushed the basket away so as to settle himself more comfortably against Cousin Minnie&apos;s knee as he sat on the floor, and Pietie was on a small chair just in front of the fire.
+
+<p>The centre of attention was the quaint old native, who, having relegated his duties to his children and grandchildren, lived as a privileged pensioner in the van der Merwe family he had served so faithfully for three generations. The firelight played over his quaint figure with the weirdest effect, lighting up now one portion of it, now another, showing up his astonishingly small hands and crooked fingers, as he pointed and gesticulated incessantly&mdash;for these people speak as much <pb id=pb9 n=9>by gesture as by sound&mdash;and throwing exaggerated shadows on the wall.
+
+<p>This was the hour beloved by the children, when the short wintry day had ended, and, in the interval between the coming of darkness and the evening meal, their dear Outa Karel was allowed in to tell them stories.
+
+<p>And weird and wonderful stories they were&mdash;tales of spooks and giants, of good and bad spirits, of animals that talked, of birds, beasts and insects that exercised marvellous influence over the destinies of unsuspecting mankind. But most thrilling of all, perhaps, were Outa Karel&apos;s personal experiences&mdash;adventures by veld and krantz with lion, tiger, jackal and crocodile, such as no longer fall to the lot of mortal man.
+
+<p>The children would listen, wide-eyed and breathless, and even their elders, sparing a moment&apos;s attention from book or writing, would feel a tremor of excitement, unable to determine where reality ended and fiction began, so inextricably were they intermingled <pb id=pb10 n=10>as this old Iago of the desert wove his romances.
+
+<p>&ldquo;Now, Outa, tell us a nice story, the nicest you know,&rdquo; said little Jan, nestling closer to Cousin Minnie, and issuing his command as the autocrat of the &ldquo;One Thousand and One Nights&rdquo; might have done.
+
+<p>&ldquo;Ach! but klein baas, this stupid old black one knows no new stories, only the old ones of Jakhals and Leeuw, and how can he tell even those when his throat is dry&mdash;ach, so dry with the dust from the kraals?&rdquo;
+
+<p>He forced a gurgling cough, and his small eyes glittered expectantly. Then suddenly he started with well-feigned surprise and beamed on Pietie, who stood beside him with a soopje in the glass kept for his especial use.
+
+<p>This was a nightly performance. The lubrication was never forgotten, but it was often purposely delayed in order to see what pretext Outa would use to call attention to the fact of its not having been offered. Sore throat, headache, stomach-ache, cold, heat, rheumatism, old age, a birthday (invented for <pb id=pb11 n=11>the occasion), the killing of a snake or the breaking-in of a young horse&mdash;anything served as an excuse for what was a time-honoured custom.
+
+<p>&ldquo;Thank you, thank you, <foreign lang=af>mij klein koning</foreign>. Gezondheid to Baas, Nooi, Nonnie, and the beautiful family van der Merwe.&rdquo; He lifted the glass, gulped down the contents, and smacked his lips approvingly. &ldquo;Ach! if a Bushman only had a neck like an ostrich! How good would the soopje taste all the way down! Now I am strong again; now I am ready to tell the story of Jakhals and Oom Leeuw.&rdquo;
+
+<p>&ldquo;About Oom Leeuw carrying Jakhals on his back?&rdquo; asked Willem.
+
+<p>&ldquo;No, baasje. This is quite a different one.&rdquo;
+
+<p>And with many strange gesticulations, imitating every action and changing his voice to suit the various characters, the old man began:
+
+
+
+
+<pb id=pb12 n=12>
+<div1 n=II id=ch2>
+<head type=label>II.</head>
+
+<head>How Jakhals Fed Oom Leeuw.</head>
+
+
+<p>&ldquo;One day in the early morning, before any people were awake, Jakhals was prowling round and prowling round, looking for something to eat. Jakhals is not fond of hunting for himself. Oh, no! he likes to wait till the hunt is over, so that he can share in the feast without having had any of the work. He had just dragged himself quietly to the top of a kopje&mdash;so, my baasjes, so&mdash;with his stomach close to the ground, and his ears moving backwards and forwards&rdquo;&mdash;Outa&apos;s little hands, on either side of the kopdoek, suited the action to the word&mdash;&ldquo;to hear the least sound. Then he looked here, he looked there, he looked all around, and yes, truly! whom do you think he saw in the kloof <pb id=pb13 n=13>below? No other than Oom Leeuw himself, clawing a nice big hamel he had just killed&mdash;a Boer hamel, baasjes, with a beautiful fat tail. Oh yes, Oom Leeuw had picked out a good one.
+
+<p>&ldquo;&lsquo;Arré!&rsquo; thought Jakhals, &lsquo;this is luck,&rsquo; and he sat still for a minute, wondering how he could get some of the nice meat for himself. He soon made a plan. A white thing fluttered in a little bush near him. It was a piece of paper. He picked it up and folded it&mdash;so&mdash;and so&mdash;and so&mdash;&rdquo; the crooked fingers were very busy&mdash;&ldquo;till it looked like a letter. Then he ran down the kopje in a great hurry and called out, &lsquo;Good morning, Oom.&rsquo;
+
+<p>&ldquo;&lsquo;Morning, Neef.&rsquo;
+
+<p>&ldquo;&lsquo;I see Oom has killed a Boer hamel.&rsquo;
+
+<p>&ldquo;&lsquo;Yes, Neef, a big fat one.&rsquo;
+
+<p>&ldquo;&lsquo;Well, here is a letter from Tante,&rsquo; said Jakhals, giving the piece of paper to Leeuw. &lsquo;As I was passing she asked me to give it to Oom.&rsquo;
+
+<p>&ldquo;Leeuw took it and turned it this way, that way. He held it far from him, he held <pb id=pb14 n=14>it close to his eyes, but he couldn&apos;t make it out at all. See, baasjes, Leeuw was one of the old-fashioned sort. He grew up before there were so many schools and good teachers&rdquo;&mdash;here Outa&apos;s bright eyes winked and blinked flatteringly on Cousin Minnie and her pupils&mdash;&ldquo;he was not clever; he could not read. But he didn&apos;t want anyone to know it, so he said:
+
+<p>&ldquo;&lsquo;Jakhals, Oom has forgotten his spectacles; you had better read it out.<corr sic="&rdquo;">&rsquo;</corr>
+
+<p>&ldquo;&lsquo;Hm, hm, hm,&rsquo; said Jakhals, pretending to read. &lsquo;Tante says Oom must kill a nice fat Boer hamel and send it home at once by me. She and the children are hungry.&rsquo;
+
+<p>&ldquo;&lsquo;Well, that&apos;s all right. Here is the very thing. Tante is not very well. The <sic>Jew smouse&apos;s</sic> donkey she ate the other day disagreed with her, so we must coax her a little. I don&apos;t want to <hi>say</hi> anything, but you know a <hi>vrouwmens</hi> is a dangerous thing when she is in a temper. So you had better take this hamel to her at once, and then you can have the offal for your trouble.<corr sic="&rdquo;">&rsquo;</corr>
+
+<pb id=pb15 n=15><p>&ldquo;&lsquo;Thank you, noble Oom, King of Beasts,&rsquo; said Jakhals in a fawning voice, promising himself at the same time that he would have something more than the offal. &lsquo;How fortunate am I, poor humble creature, to have the King for my uncle,&rsquo; and off he trotted with the sheep.
+
+<p>&ldquo;Leeuw prowled further up the kloof, waving his tail from side to side.&rdquo; Had Outa had a tail he would have wagged it, but, as he had not, his right arm was slowly flourished to and fro to give point to his description. &ldquo;Here comes a little Steenbokje on its way to a veld dam for water. Ach! but it is pretty! It looks here, it looks there, with its large soft eyes. One little front foot is in the air; now it is down; the other goes up; down again. On it comes, slowly, slowly&rdquo;&mdash;Outa&apos;s hands, bunched up to resemble the buck&apos;s feet, illustrated each step, the children following his movements with breathless interest. &ldquo;Now it stops to listen.&rdquo; Outa was rigid as he bent forward to catch the least sound. Suddenly he started <pb id=pb16 n=16>violently, and the children involuntarily did the same. &ldquo;Hark! what was that? What is coming? Ach! how Steenbokje skriks and shivers! A terrible form blocks the way! Great eyes&mdash;cruel eyes burn him with their fire. Now he knows. It is <hi rend=sc>Leeuw</hi>!&mdash;<hi rend=sc>Leeuw</hi> who stands in the path! He growls and glares at Steenbokje. Steenbokje cannot turn away. They stare at each other&mdash;so&mdash;just so&mdash;&rdquo; Outa glares at each fascinated child in turn. &ldquo;Steenbokje cannot look away, cannot move. He is stiff with fright. His blood is cold. His eyes are starting out of his head. And then&mdash;voops!&rdquo;&mdash;the listeners jump as Outa&apos;s long arms suddenly swoop towards them&mdash;&ldquo;one spring and Leeuw is on him. Steenbokje blares&mdash;meh, meh, meh&mdash;but it is no good. Leeuw tears him and claws him. Tip, tip, tip, the red blood drips down; s-s-s-s-s, it runs out like a stream, and Leeuw licks it up. There lies pretty little Steenbokje, dead, dead.&rdquo; Outa&apos;s voice trails away faintly.
+
+<p>The children heave big sighs. Little <pb id=pb17 n=17>Jan&apos;s grey eyes are full of tears. The old native&apos;s graphic description has made them feel as though they had been watching round a death-bed.
+
+<p>&ldquo;Yes, baasjes, Leeuw killed Steenbokje there in the kloof. He tore the skin off&mdash;skr-r-r-r&mdash;and bit through the bones&mdash;skrnch, skrnch, skrnch&mdash;and ate little Steenbokje for his breakfast. Then he went to the krantzes to sleep, for the day was coming and the light began to hurt his eyes.
+
+<p>&ldquo;When he awoke it was evening, and he felt refreshed and rather hungry. My baasjes know a steenbokje is nothing for a meal for Oom Leeuw. But before hunting again he thought he would go home and see how Tante and the children were getting on, and whether they had feasted well on the nice fat hamel.
+
+<p>&ldquo;But, dear land! What did poor Oom Leeuw find? The children crying, Tante spluttering and scratching with rage, everything upside down, and not even the bones of the hamel to be seen.
+
+<pb id=pb18 n=18><p>&ldquo;&lsquo;Ohé! ohé! ohé!&rsquo; cried Tante. &lsquo;The bad, wicked Jakhals! Ach, the low, veld dog!&rsquo;
+
+<p>&ldquo;&lsquo;But what is the matter?&rsquo; asked Leeuw. &lsquo;Where is Jakhals?&rsquo;
+
+<p>&ldquo;&lsquo;Where is he? How should I know? He has run off with the nice fat hamel, and me&mdash;yes, <hi>me</hi>, the King&apos;s wife&mdash;has he beaten with the entrails! Ohé! ohé!&rsquo;
+
+<p>&ldquo;&lsquo;And boxed my ears!&rsquo; cried one of the cubs. &lsquo;Wah! wah! wah!&rsquo;
+
+<p>&ldquo;&lsquo;And pinched my tail,&rsquo; roared the other. &lsquo;Weh! weh! weh!&rsquo;
+
+<p>&ldquo;&lsquo;And left us nothing but the offal. Oh, the cunning, smooth-tongued vagabond!&rsquo;
+
+<p>&ldquo;And all three fell to weeping and wailing, while Leeuw roared aloud in his anger.
+
+<p>&ldquo;&lsquo;Wait a bit, I&apos;ll get him,&rsquo; he said. &lsquo;Before the world wakes to-morrow he&apos;ll see who&apos;s baas.&rsquo;
+
+<p>&ldquo;He waved his tail to and fro and stuck out his strong claws. His eyes glared like fire in a dark kloof when there is no moon, and when he brulled it was very terrible to <pb id=pb19 n=19>hear&mdash;hoor-r-r-r-r, hoor-r-r-r-r,&rdquo; and Outa gave vent to several deep, blood-curdling roars.
+
+<p>&ldquo;Very early the next morning, when only a little grey in the sky shewed that the night was rolling round to the other side of the world, Leeuw took his strongest sjambok and started off to look for Jakhals. He spied him at last on the top of a krantz sitting by a fire with his wife and children.
+
+<p>&ldquo;&lsquo;Ah! there you are, my fine fellow,&rsquo; he thought. &lsquo;Well and happy are you? But wait, I&apos;ll soon show you!&rsquo;
+
+<p>&ldquo;He began at once to try and climb the krantz, but it was very steep and high, and so smooth that there was nothing for him to hold to. Every time he got up a little way, his claws just scratched along the hard rock and he came sailing down again. At last he thought, &lsquo;Well, as I can&apos;t climb up, I&apos;ll pretend to be nice and friendly, and then perhaps Jakhals will come down. I&apos;ll ask him to go hunting with me.&rsquo;&rdquo;
+
+<p>Here Outa&apos;s beady little eyes danced <pb id=pb20 n=20>mischievously. &ldquo;Baasjes know, the only way to get the better of a schelm is to be schelm, too. When anyone cheats, you must cheat more, or you will never be baas. Ach, yes! that is the only way.&rdquo;
+
+<p>(Cousin Minnie would not disturb the course of the tale, but she mentally prescribed and stored up for future use an antidote to this pagan and wordly-wise piece of advice to her pupils.)
+
+<p>&ldquo;So Leeuw stood at the foot of the krantz and called out quite friendly and kind, &lsquo;Good morning, Neef Jakhals.&rsquo;
+
+<p>&ldquo;&lsquo;Morning, Oom.&rsquo;
+
+<p>&ldquo;&lsquo;I thought you might like to go hunting with me, but I see you are busy.&rsquo;
+
+<p>&ldquo;At any other time Jakhals would have skipped with delight, for it was very seldom he had the honour of such an invitation, but now he was blown up with conceit at having cheated Oom and Tante Leeuw so nicely.
+
+<p>&ldquo;&lsquo;Thank you, Oom, but I am not in want of meat just now. I&apos;m busy grilling some <pb id=pb21 n=21>nice fat mutton chops for breakfast. Won&apos;t you come and have some, too?&rsquo;
+
+<p>&ldquo;&lsquo;Certainly, with pleasure, but this krantz is so steep&mdash;how can I get up?&rsquo;
+
+<p>&ldquo;&lsquo;Ach! that&apos;s quite easy, Oom. I&apos;ll pull you up in an eye-wink. Here, vrouw, give me a nice thick riem. That old rotten one that is nearly rubbed through,&rsquo; he said in a whisper to his wife.
+
+<p>&ldquo;So Mrs. Jakhals, who was as <hi>slim</hi> as her husband, brought the bad riem, and they set to work to pull Oom Leeuw up. &lsquo;Hoo-ha! hoo-ha!&rsquo; they sang as they slowly hauled away.
+
+<p>&ldquo;When he was about ten feet from the ground, Jakhals called out, &lsquo;Arré! but Oom is heavy,&rsquo; and he pulled the riem this way and that way along the sharp edge of the krantz&rdquo;&mdash;Outa vigorously demonstrated&mdash;&ldquo;till it broke right through and&mdash;kabloops!&mdash;down fell Oom Leeuw to the hard ground below.
+
+<p>&ldquo;&lsquo;Oh! my goodness! What a terrible fall! I hope Oom is not hurt. How stupid can a <pb id=pb22 n=22>vrouwmens be! To give me an old riem when I called for the best! Now, here is a strong one. Oom can try again.&rsquo;
+
+<p>&ldquo;So Leeuw tried again, and again, and again, many times over, but each time the rope broke and each time his fall was greater, because Jakhals always pulled him up a little higher, and a little higher. At last he called out:
+
+<p>&ldquo;&lsquo;It&apos;s very kind of you, Jakhals, but I must give it up.&rsquo;
+
+<p>&ldquo;&lsquo;Ach! but that&apos;s a shame!&rsquo; said Jakhals, pretending to be sorry. &lsquo;The carbonaatjes are done to a turn, and the smell&mdash;<foreign lang=af>alle wereld!</foreign> it&apos;s fine! Shall I throw Oom down a piece of the meat?&rsquo;
+
+<p>&ldquo;&lsquo;Yes please, Jakhals,&rsquo; said Leeuw eagerly, licking his lips. &lsquo;I have a big hole inside me and some carbonaatjes will fill it nicely.&rsquo;
+
+<p>&ldquo;Ach! my baasjes, what did cunning Jakhals do? He carefully raked a red-hot stone out of the fire and wrapped a big piece of fat round it. Then he peered over the <pb id=pb23 n=23>edge of the krantz and saw Leeuw waiting impatiently.
+
+<p>&ldquo;&lsquo;Now Oom,&rsquo; he called, &lsquo;open your mouth wide and I&apos;ll drop this in. It&apos;s such a nice big one, I bet you won&apos;t want another.&rsquo;
+
+<p>&ldquo;And when he said this, Jakhals chuckled, while Mrs. Jakhals and the little ones doubled up with silent laughter at the great joke.
+
+<p>&ldquo;&lsquo;Are you ready, Oom?&rsquo;
+
+<p>&ldquo;&lsquo;Grr-r-r-r-r!&rsquo; gurgled Leeuw. He had his mouth wide open to catch the carbonaatje, and he would not speak for fear of missing it.
+
+<p>&ldquo;Jakhals leaned over and took aim. Down fell the tit-bit and&mdash;sluk! sluk!&mdash;Leeuw had swallowed it.
+
+<p>&ldquo;And then, my baasjes, there arose such a roaring and raving and groaning as had not been heard since the hills were made. The dassies crept along the rocky ledges far above, and peeped timidly down; the circling eagles swooped nearer to find out the cause; the meerkats and ant-bears, the porcupines and spring-hares snuggled further into their holes; while the frightened springboks and elands <pb id=pb24 n=24>fled swiftly over the plain to seek safety in some other veld.
+
+<p>&ldquo;Only wicked Jakhals and his family rejoiced. With their bushy tails waving and their pointed ears standing up, they danced round the fire, holding hands and singing over and over:
+
+
+<lg type=Group>
+<l>&ldquo;&lsquo;Arré! who is stronger than the King of Beastland?
+<l>Arré! who sees further than the King of Birdland?
+<l>Who but thick-tailed Jakhals, but the Silver-maned One?
+<l>He, the small but sly one; he, the wise Planmaker.
+<l>King of Beasts would catch him; catch him, claw him, kill him!
+<l>Ha! ha! ha! would catch him! Ha! ha! ha! would kill him!
+<l>But he finds a way out; grills the fat-tailed hamel,
+<l>Feeds the King of Beastland with the juicy tit-bits;
+<l>Eats the fat-tailed hamel while the King lies dying;
+<l>Ha! ha! ha! lies dying! Ha! ha! ha! lies dead now!&rsquo;&rdquo;
+</lg>
+
+
+<p>Outa crooned the Jakhals&apos; triumph song in a weird monotone, and on the last words his voice quavered out, leaving a momentary silence among the small folk.
+
+<p>Pietie blinked as though the firelight were <pb id=pb25 n=25>too much for his eyes. Little Jan sighed tumultuously. Willem cleared his throat.
+
+<p>&ldquo;But how did Jakhals <hi>know</hi> that Oom Leeuw was dead?&rdquo; he asked suddenly.
+
+<p>&ldquo;He peeped over the krantz every time between the dancing and singing&mdash;like this, baasje, just like this.&rdquo; Outa&apos;s eyes, head and hands were at work. &ldquo;The first time he looked, he saw Oom Leeuw rolling over and over; the next time Leeuw was scratching, scratching at the rocky krantz; then he was digging into the ground with his claws; then he was only blowing himself out&mdash;so&mdash;with long slow breaths; but the last time he was lying quite still, and then Jakhals <hi>knew</hi>.&rdquo;
+
+<p>&ldquo;Oh! I <hi>didn&apos;t</hi> want poor Steenbokje to die,&rdquo; said little Jan. &ldquo;He was such a pretty little thing. Outa, this is not one of your nicest stories.&rdquo;
+
+<p>&ldquo;It&apos;s all about killing,&rdquo; said Pietie. &ldquo;First Leeuw killed poor Steenbokje, who never did him any harm, and then Jakhals killed Oom Leeuw, who never did <hi>him</hi> any harm. It was very cruel and wicked.&rdquo;
+
+<pb id=pb26 n=26><p>&ldquo;Ach yes, baasjes,&rdquo; explained Outa, apologetically, &ldquo;we don&apos;t know why, but it is so. Sometimes the good ones are killed and the bad ones grow fat. In this old world it goes not always so&apos;s it must go; it just go so&apos;s it goes.&rdquo;
+
+<p>&ldquo;But,&rdquo; persisted Pietie, &ldquo;you oughtn&apos;t to have let Jakhals kill Oom Leeuw. Oom Leeuw was much stronger, so he ought to have killed naughty Jakhals.&rdquo;
+
+<p>Outa&apos;s eyes gleamed pityingly. These young things! What did they know of the ups and downs of a hard world where the battle is not always to the strong, nor the race to the swift?
+
+<p>&ldquo;But, my baasje, Outa did not make up the story. He only put in little bits, like the newspaper and the spectacles and the Jew smouse, that are things of to-day. But the real story was made long, long ago, perhaps when baasje&apos;s people went about in skins like the Rooi Kafirs, and Outa&apos;s people were still monkeys in the bushveld. It has always been so, and it will always be so&mdash;in the <pb id=pb27 n=27>story and in the old wicked world. It is the head, my baasjes, the head,&rdquo; he tapped his own, &ldquo;and not the strong arms and legs and teeth, that makes one animal master over another. Ach yes! if the Bushman&apos;s head had been the same as the white man&apos;s, arré! what a fight there would have been between them!&rdquo;
+
+<p>And lost in the astonishing train of thought called up by this idea, he sat gazing out before him with eyes which saw many strange things. Then, rousing himself, with a quick change of voice and manner, &ldquo;Ach! please, Nooi!&rdquo; he said in a wheedling tone, &ldquo;a span of tobacco&mdash;just one little span for to-night and to-morrow.&rdquo;
+
+<p>His mistress laughed indulgently, and, unhooking the bunch of keys from her belt, handed them to Cousin Minnie. &ldquo;The old sinner!&rdquo; she said. &ldquo;We all spoil him, and yet who could begin to be strict with him now? Only a small piece, Minnie.&rdquo;
+
+<p>&ldquo;Thank you, thank you, my Nonnie,&rdquo; said the old man, holding out both hands, and <pb id=pb28 n=28>receiving the coveted span as if it were something very precious. &ldquo;That&apos;s <hi>my</hi> young lady! Nonnie can have Outa&apos;s skeleton when he is dead. Yes, it will be a fine skeleton for Nonnie to send far across the blue water, where she sent the old long-dead Bushman&apos;s bones. Ach foei! all of him went into a little soap boxie&mdash;just to think of it! a soap boxie!&rdquo;
+
+<p>He started as a young coloured girl made her appearance. &ldquo;<foreign lang=af>O mij lieve!</foreign> here is Lys already. How the time goes when a person is with the baasjes and the noois! Night, Baas; night, Nooi; night, Nonnie and little masters. Sleep well! Ach! the beautiful family Van der Merwe!&rdquo;
+
+<p>His thanks, farewells and flatteries grew fainter and fainter, and finally died away in the distance, as his granddaughter led him away.
+
+
+
+
+<pb id=pb29 n=29>
+<div1 n=III id=ch3>
+<head>III.</head>
+
+<head>Who was King?</head>
+
+
+<p>&ldquo;Once upon a time,&rdquo; began Outa Karel, and his audience of three looked up expectantly.
+
+<p>&ldquo;Once upon a time, Oom Leeuw roared and the forest shook with the dreadful sound. Then, from far away over the vlakte, floated another roar, and the little lion cubs jumped about and stood on their heads, tumbling over each other in their merriment.
+
+<p>&ldquo;&lsquo;Hear,&rsquo; they said, &lsquo;it is Volstruis, old Three Sticks. He tries to imitate the King, our father. He roars well. Truly there is no difference.&rsquo;
+
+<p>&ldquo;When Leeuw heard this he was very angry, so he roared again, louder than ever. Again came back the sound over the veld, as if it had been an echo.
+
+<pb id=pb30 n=30><p>&ldquo;&lsquo;Ach, no! this will never do,&rsquo; thought Leeuw. &lsquo;I must put a stop to this impudence. I alone am King here, and imitators&mdash;I want none.&rsquo;
+
+<p>&ldquo;So he went forth and roamed over the vlakte till he met old Three Sticks, the Ostrich. They stood glaring at each other.
+
+<p>&ldquo;Leeuw&apos;s eyes flamed, his mane rose in a huge mass and he lashed his tail angrily. Volstruis spread out his beautiful wings and swayed from side to side, his beak open and his neck twisting like a whip-snake. Ach! it was pretty, but if baasjes could have seen his eyes! Baasjes know, Volstruis&apos;s eyes are very soft and beautiful&mdash;like Nonnie&apos;s when she tells the Bible stories; but now there was only fierceness in them, and yellow lights that looked like fire.
+
+<p>&ldquo;But there was no fight&mdash;yet. It was only their way of meeting. Leeuw came a step nearer and said, &lsquo;We must see who is baas. You, Volstruis, please to roar a little.&rsquo;
+
+<p>&ldquo;So Volstruis roared, blowing out his throat, so, &lsquo;Hoo-hoo-hoor-r-r-r!&rsquo; It was a <pb id=pb31 n=31>fearsome sound&mdash;the sort of sound that makes you feel streams of cold water running down your back when you hear it suddenly and don&apos;t know what it is. Yes, baasjes, if you are in bed you curl up and pull the blankets over your head, and if you are outside you run in and get close to the Nooi or Nonnie.&rdquo;
+
+<p>A slight movement, indicative of contradiction, passed from one to another of his small hearers, but&mdash;unless it was a free and easy, conversational evening&mdash;they made it a point of honour never to interrupt Outa in full career. This, like other things, could await the finish of the story.
+
+<p>&ldquo;Then Leeuw roared, and truly the voices were the same. No one could say, &lsquo;This is a bigger voice,&rsquo; or &lsquo;That is a more terrifying voice.&rsquo; No, they were just equal.
+
+<p>&ldquo;So Leeuw said to Volstruis, &lsquo;Our voices are alike. You are my equal in roaring. Let it then be so. You will be King of the Birds as I am King of the Beasts. Now let us go hunting and see who is baas there.&rsquo;
+
+<pb id=pb32 n=32><p>&ldquo;Out in the vlakte some sassaby<note n=1>Sassaby (also spelt Sesseby) or Bastard Hartebeest are much smaller than the Hartebeest proper, and are found in open veld near forest country.</note> were feeding, big fat ones, a nice klompje; so Leeuw started off in one direction and Volstruis in the other, but both kept away from the side the wind came from. Wild bucks can smell&mdash;ach toch! so good. Just one little puff when a hunter is creeping up to them, and at once all the heads are in the air&mdash;sniff, sniff, sniff&mdash;and they are off like the wind. Dust is all you see, and when that has blown away&mdash;ach no! there are no bucks; the whole veld is empty, empty!&rdquo;
+
+<p>Outa stretched out his arms and waved them from side to side with an exaggerated expression of finding nothing but empty space, his voice mournful with a sense of irreparable loss.
+
+<p>&ldquo;But&rdquo;&mdash;he took up his tale with renewed energy&mdash;&ldquo;Leeuw and Volstruis were old hunters. They knew how to get nearer and nearer without letting the bucks know. <pb id=pb33 n=33>Leeuw trailed himself along slowly, slowly, close to the ground, and only when he was moving could you see which was Leeuw and which was sand: the colour was just the same.
+
+<p>&ldquo;He picked out a big buck, well-grown and fat, but not too old to be juicy, and when he got near enough he hunched himself up very quietly&mdash;so, my little masters, just so&mdash;ready to spring, and then before you could whistle, he shot through the air like a stone from a catapult, and fell, fair and square, on to the sassaby&apos;s back, his great tearing claws fastened on its shoulders and his wicked teeth meeting in the poor thing&apos;s neck.
+
+<p>&ldquo;Ach! the beautiful big buck! Never again would his pointed horns tear open his enemies! Never again would he lead the herd, or pronk in the veld in mating time! Never again would his soft nostrils scent danger in the distance, nor his quick hoofs give the signal for the stampede! No, it was really all up with him this time! When Oom Leeuw gets hold of a thing, he doesn&apos;t let go till it is dead.
+
+<pb id=pb34 n=34><p>&ldquo;The rest of the herd&mdash;ach, but they ran! Soon they were far away, only specks in the distance; all except those that Volstruis had killed. Truly Volstruis was clever! Baasjes know, he can run fast&mdash;faster even than the sassaby. So when he saw Leeuw getting ready to spring, he raced up-wind as hard as he could, knowing that was what the herd would do. So there he was waiting for them, and didn&apos;t he play with them! See, baasjes, he stood just so&rdquo;&mdash;in his excitement Outa rose and struck an attitude&mdash;&ldquo;and when they streaked past him he jumped like this, striking at them with the hard, sharp claws on his old two toes.&rdquo; Outa hopped about like a fighting bantam, while the children hugged themselves in silent delight.
+
+<p>&ldquo;Voerts! there was one dead!&rdquo;&mdash;Outa kicked to the right. &ldquo;Voerts! there was another!&rdquo;&mdash;he kicked to the left&mdash;&ldquo;till there was a klomp of bucks lying about the veld giving their last blare. Yes, old Two Toes did his work well that day.
+
+<p>&ldquo;When Leeuw came up and saw that Volstruis <pb id=pb35 n=35>had killed more than he had, he was not very pleased, but Volstruis soon made it all right.
+
+<p>&ldquo;Leeuw said, &lsquo;You have killed most, so you rip open and begin to eat.&rsquo;
+
+<p>&ldquo;&lsquo;Oh no!&rsquo; said Volstruis, &lsquo;you have cubs to share the food with, so you rip open and eat. I shall only drink the blood.&rsquo;
+
+<p>&ldquo;This put Leeuw in a good humour; he thought Volstruis a noble, unselfish creature. But truly, as I said before, Volstruis was clever. Baasjes see, he couldn&apos;t eat meat; he had no teeth. But he didn&apos;t want Leeuw to know. Therefore he said, &lsquo;You eat; I will only drink the blood.&rsquo;
+
+<p>&ldquo;So Leeuw ripped open&mdash;sk-r-r-r-r, sk-r-r-r-r&mdash;and called the cubs, and they all ate till they were satisfied. Then Volstruis came along in a careless fashion, pecking, pecking as he walked, and drank the blood. Then he and Leeuw lay down in the shade of some trees and went to sleep.
+
+<p>&ldquo;The cubs played about, rolling and <pb id=pb36 n=36>tumbling over each other. As they played they came to the place where Volstruis lay.
+
+<p>&ldquo;&lsquo;Aha!&rsquo; said one, &lsquo;he sleeps with his mouth open.&rsquo;
+
+<p>&ldquo;He peeped into Volstruis&apos;s mouth. &lsquo;Aha!&rsquo; he said again, &lsquo;I see something.&rsquo;
+
+<p>&ldquo;Another cub came and peeped.
+
+<p>&ldquo;&lsquo;<foreign lang=af>Alle kracht!</foreign>&rsquo; he said, &lsquo;I see something too. Let us go and tell our father.&rsquo;
+
+<p>&ldquo;So they ran off in great excitement and woke Leeuw. &lsquo;Come, come quickly,&rsquo; they said. &lsquo;Volstruis insults you by saying he is your equal. He lies sleeping under the trees with his mouth wide open, and we have peeped into it, and behold, <hi>he has no teeth</hi>! Come and see for yourself.&rsquo;
+
+<p>&ldquo;Leeuw bounded off quick-quick with the cubs at his tail.
+
+<p>&ldquo;&lsquo;Nier-r-r-r,&rsquo; he growled, waking Volstruis, &lsquo;nier-r-r-r. What is the meaning of this? You pretend you are my equal, and you haven&apos;t even got teeth.&rsquo;
+
+<p>&ldquo;&lsquo;Teeth or no teeth,&rsquo; said Volstruis, standing up wide awake, &lsquo;I killed more bucks than <pb id=pb37 n=37>you did to-day. Teeth or no teeth, I&apos;ll fight you to show who&apos;s baas.&rsquo;
+
+<p>&ldquo;&lsquo;Come on,&rsquo; said Leeuw. &lsquo;Who&apos;s afraid? I&apos;m just ready for you. Come on!&rsquo;
+
+<p>&ldquo;&lsquo;No, wait a little,&rsquo; said Volstruis. &lsquo;I&apos;ve got a plan. You see that ant-heap over there? Well, you stand on one side of it, and I&apos;ll stand on the other side, and we&apos;ll see who can push it over first. After that we&apos;ll come out into the open and fight.&rsquo;
+
+<p>&ldquo;&lsquo;That seems an all-right plan,&rsquo; said Leeuw; and he thought to himself, &lsquo;I&apos;m heavier and stronger; I can easily send the ant-heap flying on to old Three Sticks, and then spring over and kill him.&rsquo;
+
+<p>&ldquo;But wait a bit! It was not as easy as he thought. Every time he sprang at the ant-heap he clung to it as he was accustomed to cling to his prey. He had no other way of doing things. And then Volstruis would take the opportunity of kicking high into the air, sending the sand and stones into Leeuw&apos;s face, and making him howl and splutter with rage.
+
+<pb id=pb38 n=38><p>&ldquo;Sometimes he would stand still and roar, and Volstruis would send a roar back from the other side.
+
+<p>&ldquo;So they went on till the top of the ant-heap was quite loosened by the kicks and blows. Leeuw was getting angrier and angrier, and he could hardly see&mdash;his eyes were so full of dust. He gathered himself together for a tremendous spring, but, before he could make it, Volstruis bounded into the air and kicked the whole top off the ant-heap. Arré, but the dust was thick!
+
+<p>&ldquo;When it cleared away, there lay Leeuw, groaning and coughing, with the great heap of earth and stones on top of him.
+
+<p>&ldquo;&lsquo;Ohé! ohé!&rsquo; wailed the cubs, &lsquo;get up, my father. Here he comes, the Toothless One! He who has teeth only on his feet! Get up and slay him.&rsquo;
+
+<p>&ldquo;Leeuw shook himself free of the earth and sprang at Volstruis, but his eyes were full of sand; he could not see properly, so he missed. As he came down heavily, Volstruis shot out his strong right leg and <pb id=pb39 n=39>caught Leeuw in the side. Sk-r-r-r-r! went the skin, and goops! goops! over fell poor Oom Leeuw, with Volstruis&apos;s terrible claws&mdash;the teeth of old Two Toes&mdash;fastened into him.
+
+<p>&ldquo;Volstruis danced on him, flapping and waving his beautiful black and white wings, and tearing the life out of Oom Leeuw.
+
+<p>&ldquo;When it was all over, he cleaned his claws in the sand and waltzed away slowly over the veld to where his mate sat on the nest.
+
+<p>&ldquo;Only the cubs were left wailing over the dead King of the Forest.&rdquo;
+
+<milestone unit=tb rend="dotline">
+
+<p>The usual babel of question and comment broke out at the close of the story, till at last Pietie&apos;s decided young voice detached itself from the general chatter.
+
+<p>&ldquo;Outa, what made you say that about pulling the blankets over one&apos;s head and running to get near Mammie if one heard Volstruis bellowing at night? You know quite well that none of <hi>us</hi> would ever do it.&rdquo;
+
+<pb id=pb40 n=40><p>&ldquo;Yes, yes, my baasje, I know,&rdquo; said Outa, soothingly. &ldquo;I never meant anyone who belongs to the land of Volstruise. But other little masters, who did not know the voice of old Three Sticks&mdash;they would run to their mam-mas if they heard him.&rdquo;
+
+<p>&ldquo;Oh, I see,&rdquo; said Pietie, accepting the apology graciously. &ldquo;I was sure you could not mean a karroo farm boy.&rdquo;
+
+<p>&ldquo;Is your story a parable, Outa?&rdquo; asked little Jan, who had been doing some hard thinking for the last minute.
+
+<p>&ldquo;Ach! and what is that, my little master?&rdquo;
+
+<p>&ldquo;A kind of fable, Outa.&rdquo;
+
+<p>&ldquo;Yes, that&apos;s what it is, baasje,&rdquo; said Outa, gladly seizing on the word he understood, &ldquo;a fable, a sort of nice little fable.&rdquo;
+
+<p>&ldquo;But a parable is an earthly story with a heavenly meaning, and when Cousin Minnie tells us parables she always finds the meaning for us. What is the heavenly meaning of this, Outa?&rdquo;
+
+<p>Little Jan&apos;s innocent grey eyes were earnestly fixed on Outa&apos;s face, as though to read <pb id=pb41 n=41>from it the explanation he sought. For once the old native was nonplussed. He rubbed his red kopdoek, laid a crooked finger thoughtfully against his flat nose, scratched his sides, monkey-fashion, and finally had recourse once more to the kopdoek. But all these expedients failed to inspire him with the heavenly meaning of the story he had just told. Ach! these dear little ones, to think of such strange things! There they all were, waiting for his next words. He must get out of it somehow.
+
+<p>&ldquo;Baasjes,&rdquo; he began, smoothly, &ldquo;there is a <hi>beautiful</hi> meaning to the story, but Outa hasn&apos;t got time to tell it now. Another time&mdash;&mdash;&rdquo;
+
+<p>&ldquo;Outa,&rdquo; broke in Willem, reprovingly, &ldquo;you <hi>know</hi> you only want to get away so that you can go to the old tramp-floor, where the volk are dancing to-night.&rdquo;
+
+<p>&ldquo;No, my baasje, truly no!&rdquo;
+
+<p>&ldquo;And I wouldn&apos;t be surprised to hear that you had danced, too, after the way you have been jumping about here.&rdquo;
+
+<pb id=pb42 n=42><p>&ldquo;Yes, that was fine,&rdquo; said Pietie, with relish. &ldquo;&lsquo;Voerts! there is one dead! Voerts! there is another!&rsquo; Outa, you always say you are so stiff, but you can still kick well.&rdquo;
+
+<p>&ldquo;Aja, baasje,&rdquo; returned Outa, modestly; &ldquo;in my day I was a great dancer. No one could do the Vastrap better&mdash;and the Hondekrap&mdash;and the Valsrivier. Arré, those were the times!&rdquo;
+
+<p>He gave a little hop at the remembrance of those mad and merry days, and yet another and another, always towards the passage leading to the kitchen.
+
+<p>&ldquo;But the meaning, Outa, the heavenly meaning!&rdquo; cried little Jan. &ldquo;You haven&apos;t told us.&rdquo;
+
+<p>&ldquo;No, my little baas, not to-night. Ask the Nonnie; she will tell you. Here she comes.&rdquo;
+
+<p>And as Cousin Minnie entered the room, the wily old native, with an agility not to be expected from his cramped and crooked limbs, skipped away, leaving her to bear the brunt of his inability to explain his own story.
+
+
+
+
+<pb id=pb43 n=43>
+<div1 id=ch4 n=IV>
+<head type=label>IV.</head>
+
+<head>Why the Hyena is Lame.</head>
+
+
+<p>&ldquo;It was Tante Hyena that Jakhals cheated more than anyone,&rdquo; said Outa. &ldquo;She always forgot about the last time he had played a trick on her, so she was quite ready to believe him when he came along with another story. Some people <hi>are</hi> so, my baasjes. P&apos;raps it&apos;s kindness, p&apos;raps it&apos;s only stupidness; Outa doesn&apos;t know.
+
+<p>&ldquo;One day Jakhals and Hyena were out walking together when a white cloud came up behind the kopjes and floated over the veld quite close to them. It was a nice thick cloud, just like white fat, and Jakhals climbed on to it and sat looking down over the edge. Then he bit pieces out of it, and ate them.
+
+<p>&ldquo;&lsquo;Arré! but this white fat is nice,&rsquo; he said. <pb id=pb44 n=44>&lsquo;N-yum, n-yum, n-yum,&rsquo; and he chewed round the cloud like a caterpillar chews a leaf.
+
+<p>&ldquo;Hyena licked her lips and looked up at him.
+
+<p>&ldquo;&lsquo;Throw me down some, please,&rsquo; she said.
+
+<p>&ldquo;&lsquo;Ach! my Brown Sister, will I then be so greedy as to throw you down little bits? Wait till I get down, and then I&apos;ll help you up to eat for yourself. But come a little nearer so that you can catch me when I jump.&rsquo;
+
+<p>&ldquo;So Hyena stood ready, and Jakhals jumped in such a way that he knocked her into the sand. He fell soft, because he was on top, but foei! poor Hyena had all the breath knocked out of her and she was covered with dust.
+
+<p>&ldquo;&lsquo;Ach! but I am clumsy!&rsquo; said Jakhals; &lsquo;but never mind, now I&apos;ll help you.&rsquo;
+
+<p>&ldquo;So when she had got up and dusted herself, he helped her to climb on to the cloud. There she sat, biting pieces off and eating them, &lsquo;N-yum, n-yum, n-yum, it&apos;s just like white fat!&rsquo;
+
+<pb id=pb45 n=45><p>&ldquo;After a time she called out, &lsquo;Grey Brother, I&apos;ve had enough. I want to come down. Please catch me when I jump.&rsquo;
+
+<p>&ldquo;&lsquo;Ach, certainly Brown Sister, come on. Just see how nicely I&apos;ll catch you. So-o-o.&rsquo;
+
+<p>&ldquo;He held out his arms, but just as Hyena jumped he sprang to one side, calling out, &lsquo;Ola! Ola! a thorn has pricked me. What shall I do? what shall I do?&rsquo; and he hopped about holding one leg up.
+
+<p>&ldquo;Woops! Down fell Brown Sister, and as she fell she put out her left leg to save herself, but it doubled up under her and was nearly broken. She lay in a bundle in the sand, crying, &lsquo;My leg is cracked! my leg is cracked!&rsquo;
+
+<p>&ldquo;Jakhals came along very slowly&mdash;jump, jump, on three legs. Surely the thorn, that wasn&apos;t there, was hurting him very much!
+
+<p>&ldquo;&lsquo;Oo! oo!&rsquo; cried Hyena, &lsquo;help me up, Grey Brother. My leg is broken.&rsquo;
+
+<p>&ldquo;&lsquo;And mine has a thorn in it. Foei toch, my poor sister! How can the sick help the sick? The only plan is for us to get home <pb id=pb46 n=46>in the best way we can. Good-bye, and I will visit you to-morrow to see if you are all right.&rsquo;
+
+<p>&ldquo;And off he went&mdash;jump, jump, on three legs&mdash;very slowly; but as soon as Old Brown Sister could not see him, he put down the other one and&mdash;sh-h-h-h&mdash;he shot over the veld and got home just in time to have a nice supper of young ducks that Mrs. Jakhals and the children had caught at Oubaas van Niekerk&apos;s dam.
+
+<p>&ldquo;But poor Brown Sister lay in the sand crying over her sore places, and from that day she walks lame, because her left hind foot is smaller than the right one.&rdquo;<note n=1>The Hyena, on first starting, appears lame in the hind legs&mdash;a fact accounted for by the Hottentots in the foregoing fable.</note>
+
+
+
+
+<pb id=pb47 n=47>
+<div1 id=ch5 n=V>
+<head type=label>V.</head>
+
+<head>Who was the Thief?</head>
+
+
+<p>&ldquo;Yes, my baasjes, <hi>so</hi> was Oom Jakhals: he always made as if he forgot all about what he had done, and he made as if he thought all the others forgot too, quick-quick. He is maar so schelm.&rdquo;
+
+<p>Here Outa took full advantage of the pinch of snuff he held between his right forefinger and thumb, sneezed with evident enjoyment two or three times, and continued:
+
+<p>&ldquo;When Jakhals thought Hyena was quite well, he went to visit her.
+
+<p>&ldquo;&lsquo;It&apos;s very dull here in the veld,&rsquo; he said, &lsquo;and food is so scarce, so I&apos;m going to hire myself to a farmer. He&apos;ll give me lots to eat and drink, and when I&apos;m nice and fat I&apos;ll <pb id=pb48 n=48>come home again. Would you like to go too, Brown Sister?<corr sic="&rdquo;">&rsquo;</corr>
+
+<p>&ldquo;Hyena smacked her lips when she heard about the nice things to eat. She thought it a very good plan. So they went to a farm, and Jakhals talked so nicely that the farmer hired them both to work for him.
+
+<p>&ldquo;Ach! it was a beautiful place; lots of chickens and little ducks, and Afrikander sheep with large fat tails that could be melted out for soap and candles, and eggs, and doves and pigeons&mdash;all things that Jakhals liked. He just felt in his stomach that he was going to have a jolly life.
+
+<p>&ldquo;During the day Jakhals peeped all about, in this corner, in that corner, and he found out where the farmer kept the nice fat that was melted out of the sheep&apos;s tails. In the middle of the night, when all the people were fast asleep, he got up and went quietly, my baasjes, quietly, like a shadow on the ground, to the place where the fat was. He took a big lump and smeared it all over Brown Sister&apos;s tail while she was asleep. Then he <pb id=pb49 n=49>ate all that was left&mdash;n-yum, n-yum, n-yum&mdash;and went to sleep in the waggon-house.
+
+<p>&ldquo;Early in the morning, when the farmer went out to milk the cows, he missed the fat.
+
+<p>&ldquo;&lsquo;Lieve land! Where is all my fat?&rsquo; he said. &lsquo;It must be that vagabond Jakhals. But wait, I&apos;ll get him!&rsquo;
+
+<p>&ldquo;He took a thick riem and his sjambok, and went to the waggon-house to catch Jakhals and give him a beating. But when he asked about the fat, Jakhals spoke in a little, little voice.
+
+<p>&ldquo;&lsquo;Ach no, Baas! Would I then do such an ugly thing? And look at my tail. There&apos;s no fat on it. The one whose tail is full of fat is the thief.&rsquo;
+
+<p>&ldquo;He turned round and waved his tail in the farmer&apos;s face, and anyone could easily see that there was no fat on it.
+
+<p>&ldquo;&lsquo;But the fat is gone,&rsquo; said the farmer, &lsquo;<hi>someone</hi> must have stolen it,&rsquo; and he went on hunting, hunting in the waggon-house.
+
+<p>&ldquo;At last he came to where Hyena was <pb id=pb50 n=50>sleeping, just like a baby, baasjes, so nicely, and snoring a little: not the loud snoring like sawing planks&mdash;gorr-korrr, gorr-korr&mdash;but nice soft snoring like people do when they sleep very fast&mdash;see-uw, see-uw. It is the deepest sleep when a person snores see-uw, see-uw. Hyena&apos;s head was on some chaff, and her tail was sticking out behind her, stiff with fat!
+
+<p>&ldquo;&lsquo;Aha! here is the thief,&rsquo; said the farmer, and he began to tie the riem round her.
+
+<p>&ldquo;Old Brown Sister sat up and rubbed her eyes. &lsquo;What&apos;s the matter?&rsquo; she asked. &lsquo;I had a beautiful dream. I dreamt I was eating fat the whole night, and&mdash;&mdash;&rsquo;
+
+<p>&ldquo;&lsquo;And so you were&mdash;<hi>my</hi> fat,&rsquo; said the farmer, and he pulled the rope tighter. &lsquo;And now I&apos;m going to teach you not to steal again.&rsquo;
+
+<p>&ldquo;Poor old Brown Sister jumped about when she found out what he was going to do; she ran round and round the waggon-house trying to get away; she called out, and she called out that she did not know about the <pb id=pb51 n=51>fat, that she had never tasted it, and had never even seen it. But it was no good.
+
+<p>&ldquo;&lsquo;Look at your tail,&rsquo; said the farmer. &lsquo;Will you tell me that your tail went by itself and rubbed itself in the fat?&rsquo;
+
+<p>&ldquo;So he tied her to the waggon wheel and beat her, and beat her&mdash;ach! she was quite sore&mdash;and she screamed and screamed, and at last he drove her away from the farm.
+
+<p>&ldquo;Poor old Brown Sister! She didn&apos;t even have the fat from her tail to eat, because, baasjes see, with the running round and the beating, it was all rubbed off. But she never went to live on a farm again; the veld was quite good enough for her.&rdquo;
+
+<p>&ldquo;Is that the end, Outa?&rdquo; asked Willem.
+
+<p>&ldquo;Yes, my baasje. It&apos;s a bad end, but Outa can&apos;t help it. It does maar end so.&rdquo;
+
+<p>&ldquo;And where was Jakhals all the time?&rdquo; enquired Pietie, severely.
+
+<p>&ldquo;Jakhals, my baasje, was sitting on the waggon saying his prayers&mdash;so, my baasjes.&rdquo; Outa put his crooked hands together and cast <pb id=pb52 n=52>his twinkling eyes upwards till only the yellows showed.
+
+<lg lang=af>
+    <l>&ldquo;&lsquo;Bezie, bezie, brame,
+    <l>Hou jouw handjes same.&rsquo;<note n=1 lang=en><q><text><body><lg>
+    <l>&ldquo;Berry, berry, blackberry,
+    <l>Hold your hands together.&rdquo;
+    </lg></body></text></q></note>
+</lg>
+
+<p>&ldquo;And every time Hyena screamed, Jakhals begged her not to steal again, but to try and behave like a good Christian.&rdquo;
+
+<p>&ldquo;But <hi>Jakhals</hi> was the thief,&rdquo; said little Jan, indignantly. &ldquo;He was always the wicked one, and he was never punished. How was that, Outa?&rdquo;
+
+<p>A whimsical smile played over the old man&apos;s face, and though his eyes danced as wickedly as ever, his voice was sober as he answered.
+
+<p>&ldquo;Ach! my little master, how can Outa tell? It is maar so in this old world. It&apos;s like the funny thing Baas Willem saw in the Kaap,<note n=2>The Kaap&mdash;Cape Town.</note> that runs down a place so quickly that it just runs up on the other side, and <hi>then</hi> it can&apos;t stop, but it has to run down again, and <pb id=pb53 n=53>so it keeps on&mdash;up and down, up and down.&rdquo;
+
+<p>&ldquo;You mean the switchback?&rdquo; asked Willem.
+
+<p>&ldquo;Ach, yes! baasje, Outa means so. And in the world it is the same&mdash;up and down, up and down. And often the good ones are down and the bad ones are up. But the thing&mdash;Outa can&apos;t get the name right&mdash;goes on, and it goes on, and by-and-by the good ones are up and the bad ones are down.&rdquo;
+
+<p>&ldquo;But Jakhals seemed always to be up,&rdquo; remarked Willem.
+
+<p>&ldquo;Yes, my baasje,&rdquo; said the old man, soberly. &ldquo;Jakhals seemed always to be up. It goes so sometimes, it goes so,&rdquo; but his eyes suddenly had a far-away look, and one could not be certain that he was thinking of Jakhals.
+
+
+
+
+<pb id=pb54 n=54>
+<div1 n=VI id=ch6>
+<head type=label>VI.</head>
+
+<head>The Sun.</head>
+
+<head type=sub>A Bushman Legend.</head>
+
+
+<p>Outa, having disposed of his nightly tot, held his crooked hands towards the cheerful blaze and turned his engaging smile alternately on it and his little masters.
+
+<p>&ldquo;Ach! what it is to keep a bit of the Sun even when the Sun is gone! Long ago Outa&apos;s people, the Bushmen, did not know about fire. No, my baasjes, when the Big Fire, that makes the world warm and bright, walked across the sky, they were happy. They hunted, and danced, and feasted. They shot the fine big bucks with their little poisoned arrows, and they tore pieces off and ate the flesh with the red blood dripping from it: they had no fire to make it dry up. And <pb id=pb55 n=55>the roots and eintjes that they dug out with their sharp stones&mdash;those, too, they ate just as they were. They did not cook, for they did not know how to make fire. But when the white man came, then they learnt. Baasjes see, Outa&apos;s head is big&mdash;bigger than the Baas&apos;s head&mdash;but that does not help. It&apos;s the inside that matters, and the white man&apos;s head inside here&rdquo;&mdash;Outa tapped his wrinkled forehead&mdash;&ldquo;Alla! but it can hold a lot!
+
+<p>&ldquo;In the olden days, when Outa&apos;s people were cold they crept into caves and covered themselves with skins, for they had no fire to sit by. Yes, they were sorry when the Old Man in the sky put down his arms and lay down to sleep.&rdquo;
+
+<p>&ldquo;What Old Man?&rdquo; asked Pietie. &ldquo;Do you mean the Sun?&rdquo;
+
+<p>&ldquo;Aja! Don&apos;t baasjes then know that the Sun was once a man? It was long, long ago, before Outa&apos;s people lived in the world: perhaps in the days of the Early Race that were before even the Flat Bushmen, who were the first people we really know <pb id=pb56 n=56>anything about. In those days at a certain place lived a man, from whose armpits brightness streamed. When he lifted one arm, the place on that side of him was light; when he lifted the other arm, the place on <hi>that</hi> side of him was light; but when he lifted both arms, the light shone all around about him. But it only shone around the place where he lived; it did not reach to other places.
+
+<p>&ldquo;Sometimes the people asked him to stand on a stone, so that his light could go farther; and sometimes he climbed on a kopje and lifted up his arms: ach! then the light streamed out far, far, and lighted up the veld for miles and miles. For the higher he went, the farther the light shone.
+
+<p>&ldquo;Then the people said: &lsquo;We see now, the higher he goes the farther his light shines. If only we could put him very high, his light would go out over the whole world.&rsquo;
+
+<p>&ldquo;So they tried to make a plan, and at last a wise old woman called the young people together and said: &lsquo;You must go to this man from whose armpits the light streams. <pb id=pb57 n=57>When he is asleep, you must go; and the strongest of you must take him under the armpits, and lift him up, and swing him to and fro&mdash;so&mdash;so&mdash;and throw him as high as you can into the sky, so that he may be above the kopjes, lifting his arms to let the light stream down to warm the earth and make green things to grow in summer.&rsquo;
+
+<p>&ldquo;So the young men went to the place where the man lay sleeping. Quietly they went, my baasjes, creeping along in the red sand so as not to wake him. He was in a deep sleep, and before he could wake the strong young men took him under the armpits and swung him to and fro, as the wise old woman had told them. Then, as they swung him, they threw him into the air, high, high, and there he stuck.
+
+<p>&ldquo;The next morning, when he awoke and stretched himself, lifting up his arms, the light streamed out from under them and brightened all the world, warming the earth, and making the green things grow. And so it went on day after day. When he put up <pb id=pb58 n=58>his arms, it was bright, it was day. When he put down one arm, it was cloudy, the weather was not clear. And when he put down both arms and turned over to go to sleep, there was no light at all: it was dark; it was night. But when he awoke and lifted his arms, the day came again and the world was warm and bright.
+
+<p>&ldquo;Sometimes he is far away from the earth. Then it is cold: it is winter. But when he comes near, the earth gets warm again; the green things grow and the fruit ripens: it is summer. And so it goes on to this day, my baasjes: the day and night, summer and winter, and all because the Old Man with the bright armpits was thrown into the sky.&rdquo;
+
+<p>&ldquo;But the Sun is not a man, Outa,&rdquo; said downright Willem, &ldquo;and he hasn&apos;t any arms.&rdquo;
+
+<p>&ldquo;No, my baasje, not now. He is not a man any more. But baasjes must remember how long he has been up in the sky&mdash;spans, and spans, and <hi>spans</hi> of years, always rolling round, and rolling round, from the time he <pb id=pb59 n=59>wakes in the morning till he lies down to sleep at the other side of the world. And with the rolling, baasjes, he has got all rounder and rounder, and the light that at first came only from under his arms has been rolled right round him, till now he is a big ball of light, rolling from one side of the sky to the other.&rdquo;
+
+<p>Cousin Minnie, who had been listening in a desultory way to the fireside chatter, as she wrote at the side-table, started and leant toward the little group; but a single glance was enough to show that so interested were the children in the personal aspect of the tale that there was no fear of confusion arising in their minds from Outa&apos;s decided subversion of an elementary fact which she had been at some pains to get them to understand and accept.
+
+<p>&ldquo;And his arms, Outa,&rdquo; inquired little Jan, in his earnest way, &ldquo;do they <hi>never</hi> come out now?&rdquo;
+
+<p>Outa beamed upon him proudly. &ldquo;Ach! that is <hi>my</hi> little master! Always to ask a <pb id=pb60 n=60>big thing! Yes, baasje, <hi>sometimes</hi> they come out. When it is a dark day, then he has put his arms out. He is holding them down, and spreading his hands before the light, so that it can&apos;t shine on the world. And sometimes, just before he gets up in the morning, and before he goes to sleep at night, haven&apos;t baasjes seen long bright stripes coming from the round ball of light?&rdquo;
+
+<p>&ldquo;Yes, yes,&rdquo; assented his little listeners, eagerly.
+
+<p>&ldquo;Those are the long fingers of the Sun. His arms are rolled up inside the fiery ball, but he sticks his long fingers out and they make bright roads into the sky, spreading out all round him. The Old Man is peeping at the earth through his fingers. Baasjes must count them next time he sticks them out, and see if they are all there&mdash;eight long ones, those are the fingers; and two short ones for the thumbs.&rdquo;
+
+<p>Outa&apos;s knowledge of arithmetic was limited to the number of his crooked digits, and the smile with which he announced the extent of <pb id=pb61 n=61>his mathematical attainments was a ludicrous cross between proud triumph and modest reluctance.
+
+<p>&ldquo;When he lies down, he pulls them in. Then all the world grows dark and the people go to sleep.&rdquo;
+
+<p>&ldquo;But, Outa, it isn&apos;t always dark at night,&rdquo; Pietie reminded him. &ldquo;There are the Stars and the Moon, you know.&rdquo;
+
+<p>&ldquo;Ach, yes! The little Stars and the Lady Moon. Outa will tell the baasjes about them another night, but now he must go quick&mdash;quick and let Lys rub his back with buchu. When friend Old Age comes the back bends and the bones get stiff, and the rheumatism&mdash;foei! but it can pinch! Therefore, my baasjes, Outa cooks bossies from the veld to rub on&mdash;buchu and kookamakranka and karroo bossies. They are all good, but buchu is the best. Yes, buchu for the outside, and the Baas&apos;s fire-water for the inside!&rdquo;
+
+<p>He looked longingly at the cupboard, but wood and glass are unresponsive until acted <pb id=pb62 n=62>on by human agency; so, possessing no &ldquo;Open, Sesame&rdquo; for that unyielding lock, Outa contented himself by smacking his lips as he toddled away.
+
+
+
+
+<pb id=pb63 n=63>
+<div1 n=VII id=ch7>
+<head type=label>VII.</head>
+
+<head>The Stars and the Stars&apos; Road.</head>
+
+
+<p>Darkly-blue and illimitable, the arc of the sky hung over the great Karroo like a canopy of softest velvet, making a deep, mysterious background for the myriad stars, which twinkled brightly at a frosty world.
+
+<p>The three little boys, gathered at the window, pointed out to each other the constellations with which Cousin Minnie had made them familiar, and were deep in a discussion as to the nature and number of the stars composing the Milky Way when Outa shuffled in.
+
+<p>&ldquo;Outa, do you think there are a billion stars up there in the Milky Way?&rdquo; asked Willem.
+
+<p>&ldquo;A billion, you know,&rdquo; explained Pietie, <pb id=pb64 n=64>&ldquo;is a thousand million, and it would take months to count even one million.&rdquo;
+
+
+<figure id=p064>
+<head>&ldquo;The Stars&apos; Road&rdquo;</head>
+
+<p rend="align(right)"><hi>Face page 64</hi>]
+</figure>
+
+
+<p>&ldquo;Aja, baasje,&rdquo; said the old man readily, seizing, with native adroitness, the unknown word and making it his own, &ldquo;then there will <hi>surely</hi> be a billion stars up there. Perhaps,&rdquo; he added, judicially considering the matter, &ldquo;<hi>two</hi> billion, but no one knows, because no one can ever count them. They are too many. And to think that that bright road in the sky is made of wood ashes, after all.&rdquo;
+
+<p>He settled himself on his stool, and his little audience came to attention.
+
+<p>&ldquo;Yes, my baasjes,&rdquo; he went on, &ldquo;long, long ago, the sky was dark at night when the Old Man with the bright armpits lay down to sleep, but people learned in time to make fires to light up the darkness; and one night a girl, who sat warming herself by a wood fire, played with the ashes. She took the ashes in her hands and threw them up to see how pretty they were when they floated in the air. And as they floated away she put green bushes on the fire and stirred it with a <pb id=pb65 n=65>stick. Bright sparks flew out and went high, high, mixing with the silver ashes, and they all hung in the air and made a bright road across the sky. And there it is to this day. Baasjes call it the Milky Way, but Outa calls it the Stars&apos; Road.
+
+<p>&ldquo;Ai! but the girl was pleased! She clapped her hands and danced, shaking herself like Outa&apos;s people do when they are happy, and singing:&mdash;
+
+<lg>
+    <l>&lsquo;The little stars! The tiny stars!
+    <l>They make a road for other stars.
+    <l>Ash of wood-fire! Dust of the Sun!
+    <l>They call the Dawn when Night is done!&rsquo;
+</lg>
+
+<p>&ldquo;Then she took some of the roots she had been eating and threw them into the sky, and there they hung and turned into large stars. The old roots turned into stars that gave a red light, and the young roots turned into stars that gave a golden light. There they all hung, winking and twinkling and singing. Yes, singing, my baasjes, and this is what they sang:&mdash;
+
+<lg>
+    <l>&lsquo;We are children of the Sun!
+      <l rend="indent(2)">It&apos;s so! It&apos;s so! It&apos;s so!
+    <pb id=pb66 n=66><l>Him we call when Night is done!
+      <l rend="indent(2)">It&apos;s so! It&apos;s so! It&apos;s so!
+    <l>Bright we sail across the sky
+    <l>By the Stars&apos; Road, high, so high;
+    <l>And we, twinkling, smile at you,
+    <l>As we sail across the blue!
+      <l rend="indent(2)">It&apos;s so! It&apos;s so! It&apos;s so!&rsquo;
+</lg>
+
+<p>&ldquo;Baasjes know, when the stars twinkle up there in the sky they are like little children nodding their heads and saying, &lsquo;It&apos;s so! It&apos;s so! It&apos;s so!&rsquo;&rdquo; At each repetition Outa nodded and winked, and the children, with antics of approval, followed suit.
+
+<p>&ldquo;Baasjes have sometimes seen a star fall?&rdquo; Three little heads nodded in concert.
+
+<p>&ldquo;When a star falls,&rdquo; said the old man impressively, &ldquo;it tells us someone has died. For the star knows when a person&apos;s heart fails and the person dies, and it falls from the sky to tell those at a distance that someone they know has died.<note n=1>It is both curious and interesting to find the identical belief obtaining amongst races so widely different as the Scandinavians of Northern Europe and the Bushmen of South Africa.&mdash;See Hans Andersen&apos;s <hi>Little Match Girl</hi>: &ldquo;Her Grandmother had told her that when a star fell down a soul mounted up to God.&rdquo;</note>
+
+<pb id=pb67 n=67><p>&ldquo;One star grew and grew till he was much larger than the others. He was the Great Star, and, singing, he named the other stars. He called each one by name, till they all had their names, and in this way they knew that he was the Great Star. No other could have done so. Then when he had finished, they all sang together and praised the Great Star, who had named them.<note n=1>&ldquo;When the morning stars sang together, and all the sons of God shouted for joy.&rdquo;&mdash;<xref url="bib:job 38:7">Job xxxviii. 7</xref>.</note>
+
+<p>&ldquo;Now, when the day is done, they walk across the sky on each side of the Stars&apos; Road. It shows them the way. And when Night is over, they turn back and sail again by the Stars&apos; Road to call the Daybreak, that goes before the Sun. The Star that leads the way is a big bright star. He is called the Dawn&apos;s-Heart Star, and in the dark, dark hour, before the Stars have called the Dawn, he shines&mdash;ach! baasjes, he is beautiful to behold! The wife and the child of the Dawn&apos;s-Heart Star are pretty, too, but not so big and bright as he. They sail on in <pb id=pb68 n=68>front, and then they wait&mdash;wait for the other Stars to turn back and sail along the Stars&apos; Road, calling, calling the Dawn, and for the Sun to come up from under the world, where he has been lying asleep.
+
+<p>&ldquo;They call and sing, twinkling as they sing:&mdash;
+
+<lg>
+    <l>&lsquo;We call across the sky,
+    <l>Dawn! Come, Dawn!
+    <l>You, that are like a young maid newly risen,
+    <l>Rubbing the sleep from your eyes!
+    <l>You, that come stretching bright hands to the sky,
+    <l>Pointing the way for the Sun!
+    <l>Before whose smile the Stars faint and grow pale,
+    <l>And the Stars&apos; Road melts away.
+    <l>Dawn! Come Dawn!
+    <l>We call across the sky,
+    <l>And the Dawn&apos;s-Heart Star is waiting.
+      <l rend="indent(2)">It&apos;s so! It&apos;s so! It&apos;s so!&rsquo;
+</lg>
+
+<p>&ldquo;So they sing, baasjes, because they know they are soon going out.
+
+<p>&ldquo;Then slowly the Dawn comes, rubbing her eyes, smiling, stretching out bright fingers, chasing the darkness away. The Stars grow faint and the Stars&apos; Road fades, while the <pb id=pb69 n=69>Dawn makes a bright pathway for the Sun. At last he comes with both arms lifted high, and the brightness, streaming from under them, makes day for the world, and wakes people to their work and play.
+
+<p>&ldquo;But the little Stars wait till he sleeps again before they begin their singing. Summer is the time when they sing best, but even now, if baasjes look out of the window they will see the Stars, twinkling and singing.&rdquo;
+
+<p>The children ran to the window and gazed out into the starlit heavens. The last sight Outa had, as he drained the soopje glass the Baas was just in time to hand him, was of three little heads bobbing up and down in time to the immemorial music of the Stars, while little Jan&apos;s excited treble rang out: &ldquo;Yes, it&apos;s quite true, Outa. They <hi>do</hi> say, &lsquo;It&apos;s so! It&apos;s so! It&apos;s so!&rsquo;&rdquo;
+
+
+
+
+<pb id=pb70 n=70>
+<div1 id=ch8 n=VIII>
+<head type=label>VIII.</head>
+
+<head>Why the Hare&apos;s Nose is Slit.</head>
+
+
+<p>The curtains had not yet been drawn nor the shutters closed, and little Jan looked with wide serious eyes at the full moon sailing serenely in the cold sky. Then he sighed as though thoughts too big for expression stirred within him, and turned absently towards the purring fire.
+
+<p>&ldquo;And why does the big man make such a sighing?&rdquo; asked Outa Karel. &ldquo;It is like the wind in the mealie land at sun-under.&rdquo;
+
+<p>Little Jan&apos;s eyes slowly withdrew their gaze from some inward vision and became conscious of the old native. &ldquo;Outa,&rdquo; he said, &ldquo;why is the moon so far away, and so beautiful, and so golden?&rdquo;
+
+<p>&ldquo;Ach! to hear him now! How can Outa <pb id=pb71 n=71>tell? It is maar so. Just like grass is green and fire is hot, so the Moon is far away and beautiful and golden. But she is a cruel lady sometimes, too, and it is through her that the poor Little Hare runs about with a slit in his nose to-day.&rdquo;
+
+<p>&ldquo;Tell us, Outa.&rdquo; Little Jan dropped on to the rug beside the basket of mealie-cobs, and the others edged nearer.
+
+<p>&ldquo;And why do you call the Moon a lady?&rdquo; asked Pietie of the inquiring mind.
+
+<p>&ldquo;But doesn&apos;t baasje know that the Moon is a lady? O yes, and for all her beauty she can be cross and cruel sometimes like other ladies, as you will hear.&rdquo;
+
+<p>&ldquo;Long, long ago, when the world was quite young, the Lady Moon wanted someone to take a message to Men. She tried first one creature and then another, but no! they were all too busy, they couldn&apos;t go. At last she called the Crocodile. He is very slow and not much good, but the Lady Moon thought she would pinch his tail and make him go quickly. So she said to him: &lsquo;Go <pb id=pb72 n=72>down to Men at once and give them this message: &ldquo;As I die and, dying, live, so also shall you die, and, dying, live.&rdquo;&rsquo;
+
+<p>&ldquo;Baasjes know how the Moon is sometimes big and round&mdash;&mdash;so&rdquo;&mdash;and Outa&apos;s diminutive hands described a wide circle and remained suspended in the air&mdash;&ldquo;like she is now in the sky. Then every night she gets smaller and smaller, so&mdash;so&mdash;so&mdash;so&mdash;so&mdash;&mdash;till&mdash;&mdash;clap!&rdquo;&mdash;the crooked fingers come together with a bang&mdash;&ldquo;there&apos;s no more Moon: she is dead. Then one night a silver horn hangs in the sky&mdash;thin, very thin. It is the new Moon that grows, and grows, and gets beautiful and golden.&rdquo; By the aid of the small claw-like hands the moon grew to the full before the children&apos;s interested eyes. &ldquo;And so it goes on, always living, and growing, and dying, and living again.
+
+<p>&ldquo;So the Lady Moon pinched old Oom Crocodile&apos;s tail, and he gave one jump and off he started with the message. He went quickly while the Moon watched him, but soon he came to a bend in the road. Round <pb id=pb73 n=73>he went with a great turn, for a Crocodile&apos;s back is stiff like a plank, he can&apos;t bend it; and then, when he thought he was out of sight, he went slower and slower&mdash;drif-draf-drippity-drif-draf, drif-draf-drippity-drif-draf, like a knee-haltered horse. He was toch too lazy.
+
+<p>&ldquo;All of a sudden there was a noise&mdash;sh-h-h-h-h&mdash;and there was the Little Hare. &lsquo;Ha! ha! ha!&rsquo; he laughed, &lsquo;what is the meaning of this drif-draf-drippity-drif-draf? Where are you going in such a hurry, Oom Crocodile?&rsquo;
+
+<p>&ldquo;&lsquo;I can&apos;t stop to speak to you, Neef Haasje,&rsquo; said Oom Crocodile, trying to look busy and to hurry up. &lsquo;The Lady Moon has sent me with a message to Men.&rsquo;
+
+<p>&ldquo;&lsquo;And what is the message, Oom Crocodile?&rsquo;
+
+<p>&ldquo;&lsquo;It&apos;s a very important one: &ldquo;As I die and, dying, live, so also shall you die and, dying, live.&rdquo;&rsquo;
+
+<p>&ldquo;&lsquo;Ach, but that is a stupid message. And you can&apos;t ever run, Oom, you are so slow. <pb id=pb74 n=74>You can only go drif-draf-drippity-drif-draf like a knee-haltered horse, but I go sh-h-h-h-h like the wind. Give the message to me and I will take it.&rsquo;
+
+<p>&ldquo;&lsquo;Very well,&rsquo; said the lazy Crocodile, &lsquo;but you must say it over first and get it right.&rsquo;
+
+<p>&ldquo;So Neef Haasje said the message over and over, and then&mdash;sh-h-h-h-h&mdash;he was off like the wind. Here he was! there he was! and you could only see the white of his tail and his little behind legs getting small in the distance.
+
+<p>&ldquo;At last he came to Men, and he called them together and said: &lsquo;Listen, Sons of the Baboon, a wise man comes with a message. By the Lady Moon I am sent to tell you: &ldquo;As I die and, dying, perish, so shall you also die and come wholly to an end.&rdquo;&rsquo;
+
+<p>&ldquo;Then Men looked at each other and shivered. All of a sudden the flesh on their arms was like goose-flesh. &lsquo;What shall we do? What is this message that the Lady Moon has sent? &ldquo;As I die and, dying, <pb id=pb75 n=75>perish, so shall you also die and come wholly to an end.&rdquo;&rsquo;
+
+<p>&ldquo;They shivered again, and the goose-flesh crept right up their backs and into their hair, and their hair began to rise up on their heads just like&mdash;ach no, but Outa forgets, these baasjes don&apos;t know how it is to feel so.&rdquo; And the wide smile which accompanied these words hid the expression of sly teasing which sparkled in Outa&apos;s dancing black eyes, for he knew what it was to be taken to task for impugning the courage of his young listeners.
+
+<p>&ldquo;But Neef Haasje did not care. He danced away on his behind legs, and laughed and laughed to think how he had cheated Men.
+
+<p>&ldquo;Then he returned again to the Moon, and she asked: &lsquo;What have you said to Men?&rsquo;
+
+<p>&ldquo;&lsquo;O, Lady Moon, I have given them your message: &ldquo;Like as I die and, dying, perish, so also shall you die and come wholly to an end,&rdquo; and they are all stiff with fright. <pb id=pb76 n=76>Ha! ha! ha!&rsquo; Haasje laughed at the thought of it.
+
+<p>&ldquo;&lsquo;What! cried the Lady Moon, &lsquo;what! did you tell them that? Child of the devil&apos;s donkey!<note n=1>According to a Hottentot legend, the hare is related to the donkey.</note> you must be punished.&rsquo;
+
+<p>&ldquo;Ach, but the Lady Moon was very angry. She took a big stick, a kierie&mdash;much bigger than the one Outa used to kill lions with when he was young&mdash;and if she could have hit him, then&rdquo;&mdash;Outa shook his head hopelessly&mdash;&ldquo;there would have been no more Little Hare: his head would have been cracked right through. But he is a slim kerel. When he saw the big stick coming near, one, two, three, he ducked and slipped away, and it caught him only on the nose.
+
+<p>&ldquo;Foei! but it was sore! Neef Haasje forgot that the Moon was a Lady. He yelled and screamed; he jumped high into the air; he jumped with all his four feet at once; and&mdash;scratch, scratch, scratch, he <pb id=pb77 n=77>was kicking, and hitting and clawing the Moon&apos;s face till the pieces flew.
+
+<p>&ldquo;Then he felt better and ran away as hard as he could, holding his broken nose with both hands.
+
+<p>&ldquo;And that is why to-day he goes about with a split nose, and the golden face of the Lady Moon has long dark scars.
+
+<p>&ldquo;Yes, baasjes, fighting is a miserable thing. It does not end when the fight is over. Afterwards there is a sore place&mdash;ach, for so long!&mdash;and even when it is well, the ugly marks remain to show what has happened. The best, my little masters, is not to fight at all.&rdquo;
+
+
+
+
+<pb id=pb78 n=78>
+<div1 id=ch9 n=IX>
+<head type=label>IX.</head>
+
+<head>How the Jackal got his Stripe.</head>
+
+
+<p>&ldquo;The Sun was a strange little child,&rdquo; said Outa. &ldquo;He never had any Pap-pa or Mam-ma. No one knew where he came from. He was just found by the roadside.
+
+<p>&ldquo;In the olden days when the men of the Ancient Race&mdash;the old, old people that lived so long ago&mdash;were trekking in search of game, they heard a little voice calling, calling. It was not a springbokkie, it was not a tarentaal, it was not a little ostrich. They couldn&apos;t think what it was. But it kept on, it kept on.&rdquo; Outa&apos;s head nodded in time to his repetitions.
+
+<p>&ldquo;Why didn&apos;t they go and look?&rdquo; asked Willem.
+
+<p>&ldquo;They did, my baasje. They hunted about <pb id=pb79 n=79>amongst the milk-bushes by the roadside, and at last under one of them they found a nice brown baby. He was lying quite still looking about him, not like a baby, baasjes, but like an old child, and sparks of light, as bright as the sparks from Outa&apos;s tinderbox, seemed to fly out of his eyes. When he saw the men, he began calling again.
+
+<p>&ldquo;&lsquo;Carry me, carry me! Pick me up and carry me!&rsquo;
+
+<p>&ldquo;&lsquo;Arré! he can talk,&rsquo; said the man. &lsquo;What a fine little child! Where have your people gone? and why did they leave you here?&rsquo;
+
+<p>&ldquo;But the little Sun wouldn&apos;t answer them. All he said was, &lsquo;Put me in your awa-skin. I&apos;m tired; I can&apos;t walk.&rsquo;
+
+<p>&ldquo;One of the men went to take him up, but when he got near he said, &lsquo;Soe! but he&apos;s hot; the heat comes out of him. <hi>I</hi> won&apos;t take him.&rsquo;
+
+<p>&ldquo;&lsquo;How can you be so silly?&rsquo; said another man. &lsquo;<hi>I</hi>&apos;ll carry him.&rsquo;
+
+<p>&ldquo;But when he got near, he started back. &lsquo;Alla! what eyes! Fire comes out of them.&rsquo; And he, too, turned away.
+
+<pb id=pb80 n=80><p>&ldquo;Then a third man went. &lsquo;He is very small,&rsquo; he said; &lsquo;I can easily put him in my awa-skin.&rsquo; He stooped and took the little Sun under his arms.
+
+<p>&ldquo;&lsquo;Ohé! ohé! ohé!&rsquo; he cried, dropping the baby on to the red sand. &lsquo;What is this for toverij! It is like fire under his arms. He burns me when I take him up.&rsquo;
+
+<p>&ldquo;The others all came round to see. They didn&apos;t come <hi>too</hi> near, my baasjes, because they were frightened, but they wanted to see the strange brown baby that could talk, and that burned like a fire.
+
+<p>&ldquo;All on a sudden he stretched himself; he turned his head and put up his little arms. Bright sparks flew from his eyes, and yellow light streamed from under his arms, and&mdash;hierr, skierr&mdash;the Men of the Early Race fell over each other as they ran through the milk-bushes back to the road. My! but they were frightened!
+
+<p>&ldquo;The women were sitting there with their babies on their backs, waiting for their husbands.
+
+<pb id=pb81 n=81><p>&ldquo;&lsquo;Come along! Hurry! hurry! See that you get away from here,&rsquo; said the men, without stopping.
+
+<p>&ldquo;The women began to run, too.
+
+<p>&ldquo;&lsquo;What was it? What did you find?&rsquo;
+
+<p>&ldquo;&lsquo;A terrible something,&rsquo; said the men, still running. &lsquo;It pretends to be a baby, but we <hi>know</hi> it is a <hi>mensevreter</hi>. There it lies in the sand, begging one of us to pick it up and put it in his awa-skin, but as soon as we go near, it tries to burn us; and if we don&apos;t make haste and get away from here, it will certainly catch us.&rsquo;
+
+
+<figure id=p081>
+<head>&ldquo;The women with their babies on their backs, flew&rdquo;</head>
+
+<p rend="align(right)"><hi>Face page 81</hi>]
+</figure>
+
+
+<p>&ldquo;Then they ran faster than ever. Baasjes know&mdash;ach no!&rdquo; corrected Outa, with a sly smile; &ldquo;Outa means baasjes don&apos;t know&mdash;how frightenness makes wings grow on people&apos;s feet, so that they seem to fly. So the Men of the Early Race, and the women with their babies on their backs, flew, and very soon they were far from the place where the little Sun was lying.
+
+<p>&ldquo;But someone had been watching, my baasjes, watching from a bush near by. It <pb id=pb82 n=82>was Jakhals, with his bright eyes and his sharp nose, and his stomach close to the ground. When the people had gone, he crept out to see what had made them run. Hardly a leaf stirred, not a sound was heard, <hi>so</hi> softly he crept along under the milk-bushes to where the little Sun lay.
+
+<p>&ldquo;&lsquo;Ach, what a fine little child has been left behind by the men!&rsquo; he said. &lsquo;Now that is really a shame&mdash;that none of them would put it into his awa-skin.&rsquo;
+
+<p>&ldquo;&lsquo;Carry me, carry me! Put me in your awa-skin,&rsquo; said the little Sun.
+
+<p>&ldquo;&lsquo;I haven&apos;t got an awa-skin, baasje,&rsquo; said Jakhals, &lsquo;but if you can hold on, I&apos;ll carry you on my back.&rsquo;
+
+<p>&ldquo;So Jakhals lay flat on his stomach, and the little Sun caught hold of his maanhaar, and rolled round on his back.
+
+<p>&ldquo;&lsquo;Where do you want to go?&rsquo; asked Jakhals.
+
+<p>&ldquo;&lsquo;There, where it far is,&rsquo; said the baby, sleepily.
+
+<p>&ldquo;Jakhals trotted off with his nose to the <pb id=pb83 n=83>ground and a sly look in his eye. <hi>He</hi> didn&apos;t care where the baby wanted to go; he was just going to carry him off to the krantz where Tante and the young Jakhalses lived. If baasjes could have seen his face! <foreign lang=af>Alle wereld!</foreign> he was smiling, and when Oom Jakhals smiles, it is the wickedest sight in the world. He was very pleased to think what he was taking home; fat brown babies are as nice as fat sheep-tails, so he went along quite jolly.
+
+<p>&ldquo;But only at first. Soon his back began to burn where the baby&apos;s arms went round it. The heat got worse and worse, until he couldn&apos;t hold it out any longer.
+
+<p>&ldquo;&lsquo;Soe! Soe! Baasje burns me,&rsquo; he cried. &lsquo;Sail down a little further, baasje, so that my neck can get cool.&rsquo;
+
+<p>&ldquo;The little Sun slipped further down and held fast again, and Jakhals trotted on.
+
+<p>&ldquo;But soon he called out again, &lsquo;Soe! Soe! Now the middle of my back burns. Sail down still a little further.&rsquo;
+
+<p>&ldquo;The little Sun went further down and <pb id=pb84 n=84>held fast again<corr sic=",">.</corr> And so it went on. Every time Jakhals called out that he was burning, the baby slipped a little further, and a little further, till at last he had hold of Jakhals by the tail, and then he wouldn&apos;t let go. Even when Jakhals called out, he held on, and Jakhals&apos;s tail burnt and burnt. My! it was quite black!
+
+<p>&ldquo;&lsquo;Help! help!&rsquo; he screamed! &lsquo;Ach, you devil&apos;s child! Get off! Let go! I&apos;ll punish you for this! I&apos;ll bite you! I&apos;ll gobble you up! My tail is burning! Help! Help!&rsquo; And he jumped, and bucked, and rushed about the veld, till at last the baby had to let go.
+
+<p>&ldquo;Then Jakhals voertsed<note n=1>Voertsed.&mdash;Evidently a word of Outa&apos;s coining, meaning to jump round suddenly and violently.</note> round, and ran at the little Sun to bite him and gobble him up. But when he got near, a funny thing happened, my baasjes. Yes truly, just when he was going to bite, he stopped halfway, and shivered back as if someone had beaten him. At first he had growled with crossness, but now he began to whine from frightenness.
+
+<pb id=pb85 n=85><p>&ldquo;And why was it, my baasjes? Because from under the baby&apos;s arms streamed brightness and hotness, and out of the baby&apos;s eyes came streaks of fire, so that Jakhals winked and blinked, and tried to make himself small in the sand. Every time he opened his eyes a little, just like slits, there was the baby sitting straight in front of him, staring at him so that he had to shut them again quick, quick.
+
+<p>&ldquo;&lsquo;Come and punish me,&rsquo; said the baby.
+
+<p>&ldquo;&lsquo;No, baasje, ach no!&rsquo; said Jakhals in a small, little voice, &lsquo;why should I punish you?&rsquo;
+
+<p>&ldquo;&lsquo;Come and bite me,&rsquo; said the baby.
+
+<p>&ldquo;&lsquo;No, baasje, no, I could never think of it.&rsquo; Jakhals made himself still a little smaller in the sand.
+
+<p>&ldquo;&lsquo;Come and gobble me up,&rsquo; said the baby.
+
+<p>&ldquo;Then Jakhals gave a yell and tried to crawl further back.
+
+<p>&ldquo;&lsquo;Such a fine little child,&rsquo; he said, trying to make his voice sweet, &lsquo;who would ever do such a wicked thing?&rsquo;
+
+<pb id=pb86 n=86><p>&ldquo;&lsquo;You would,&rsquo; said the little Sun. &lsquo;When you had carried me safely to your krantz, you would have gobbled me up. You are <hi>toch</hi> so clever, Jakhals, but sometimes you will meet your match. Now, look at me well.&rsquo;
+
+<p>&ldquo;Jakhals didn&apos;t want to look, my baasjes, but it was just as if something made his eyes go open, and he lay there staring at the baby, and the baby stared at him&mdash;so, my baasjes, just so&rdquo;&mdash;Outa stretched his eyes to their utmost and held each fascinated child in turn.
+
+<p>&ldquo;&lsquo;You&apos;ll know me again when you see me,&rsquo; said the baby, &lsquo;but never, never again will you be able to look me in the face. And now you can <hi>go</hi>.&rsquo;
+
+<p>&ldquo;Fierce light shot from his eyes, and he blew at Jakhals with all his might; his breath was like a burning flame, and Jakhals, half dead with frightenness, gave a great howl and fled away over the vlakte.
+
+<p>&ldquo;From that day, my baasjes, he has a black stripe right down his back to the tip of his tail. And he cannot bear the Sun, <pb id=pb87 n=87>but hides away all day with shut eyes, and only at night when the Old Man with the bright armpits has gone to sleep, does he come out to hunt and look for food, and play tricks on the other animals.&rdquo;
+
+
+
+
+<pb id=pb88 n=88>
+<div1 n=X id=ch10>
+<head type=label>X.</head>
+
+<head>The Animals&apos; Dam.</head>
+
+
+<p>&ldquo;Ach! it was dry,&rdquo; said Outa, &ldquo;as dry as last year&apos;s springbok biltong. For a long time the Old Man in the sky shot down strong light and sucked all the water out of the veld. From morning to night he poured down hotness on the world, and when he rolled round to sleep, a hot wind blew&mdash;and blew&mdash;and blew&mdash;till he woke to shine again. The karroo bushes dried up, the rivers had no water, and the poor animals began to die from thirst. It was such a drought, my little masters, as you have never seen.
+
+<p>&ldquo;At last Oom Leeuw called the animals together to make a plan.
+
+<p>&ldquo;The Sun had gone under, and the Lady <pb id=pb89 n=89>Moon was sailing in the sky&mdash;beautiful, as she always is, and looking down on the hot world. Oom Leeuw sat under a krantz on the morning side of a kopje, where it was a little cool, and the others sat round him like a watermelon slice. Leopard, Hyena, Babiaan, Jakhals, Hare and Tortoise were in front; they were the chief ones. The smaller ones, like Dassie, Mierkat, and Hedgehog, were at the sides; and Zebra, Springbok, Ostrich and Giraffe waited in the veld to hear the news. They pretended to be eating, but all the time their ears went backwards and forwards, backwards and forwards&mdash;so, my baasjes,&mdash;to catch every little sound, and they were ready at the first sign of danger to race away, kicking up the dust so that Oom Leeuw would not be able to see them.
+
+<p>&ldquo;But they needn&apos;t have been afraid. Oom Leeuw was too hot and tired and weak to catch anything. He just sat against the krantz with his dry tongue hanging out, and the others just lay round about in the watermelon slice with <hi>their</hi> dry tongues hanging <pb id=pb90 n=90>out, and every time they looked at the sky to see if any clouds were coming up. But no! The sky was just like a big, hot soap-pot turned over above their heads, with the Lady Moon making a silver road across it, and the little stars shining like bits broken off the big, hot Sun. There was nothing that even looked like a cloud.
+
+<p>&ldquo;At last Oom Leeuw pulled in his tongue and rolled it about in his mouth to get the dryness off. When it stopped rattling, he began to talk.
+
+<p>&ldquo;&lsquo;Friends and brothers and nephews,&rsquo; he said&mdash;yes, just like that Oom Leeuw began; he was so miserable that he felt friendly with them all. &lsquo;Friends and brothers and nephews, it is time to make a plan. You know how it is with a drought; when it is at its worst, the bottom of the clouds falls out, and the water runs away fast, fast, to the sea, where there is too much water already, and the poor karroo is left again without any. Even if a land-rain comes, it just sinks in, because the ground is too loose and dry to hold it, so we must <pb id=pb91 n=91>make a plan to keep the water, and my plan is to dig a dam. But it&apos;s no use for one or two to work; everyone must help. What do you say?&rsquo;
+
+<p>&ldquo;&lsquo;Certainly,&rsquo; said Leopard.
+
+<p>&ldquo;&lsquo;Certainly,&rsquo; said Hyena.
+
+<p>&ldquo;&lsquo;Certainly,&rsquo; said Ant-bear.
+
+<p>&ldquo;&lsquo;Certainly,&rsquo; said Jakhals, but he winked his eye at the Lady Moon, and then put his nose into the warm sand so that no one could see his sly smile.
+
+<p>&ldquo;All the other animals said &lsquo;Certainly,&rsquo; and then they began to talk about the dam. Dear land! A person would never have said their throats were dry. Each one had a different plan, and each one talked without listening to the other. It was like a Church bazaar&mdash;yes, baasjes, long ago when Outa was young he was on a bazaar in the village, but he was glad, my baasjes, when he could creep into the veld again and get the noise out of his ears.
+
+<p>&ldquo;At last the Water Tortoise&mdash;he with the wise little head under his patchwork shell&mdash;<pb id=pb92 n=92>said, &lsquo;Let us go now while it is cool, and look for a place for the dam.&rsquo;
+
+<p>&ldquo;So they hunted about and found a nice place, and soon they began to make the dam. Baasjes, but those animals worked! They scratched, they dug, they poked, they bored, they pushed and they rolled; and they all did their best, so that the dam could be ready when the rain came. Only lazy Jakhals did not work. He just roamed round saying to the others, &lsquo;Why don&apos;t you do this?&rsquo; &lsquo;Why don&apos;t you do that?&rsquo; till at last they asked, &lsquo;Why don&apos;t you do it yourself?&rsquo;
+
+<p>&ldquo;But Jakhals only laughed at them. &lsquo;And why should I be so foolish as to scratch my nails off for your old dam?&rsquo; he said.
+
+<p>&ldquo;&lsquo;But you said &ldquo;Certainly,&rdquo; too, when Oom asked us, didn&apos;t you?&rsquo; they asked.
+
+<p>&ldquo;Then Jakhals laughed more than ever. &lsquo;Ha-ha-ha! Ha-ha-ha! Am I then a slave of my word? That was last night. Don&apos;t you know yet that a thing is one colour by moonlight, and quite another colour when the sun shines on it? Ha! ha! ha!&rsquo;
+
+<pb id=pb93 n=93><p>&ldquo;So he went about bothering the poor animals that were working so hard, and laughing at them when they got hot and tired.
+
+<p>&ldquo;&lsquo;What&apos;s the use of working so hard? Those who do not work will also drink.&rsquo;
+
+<p>&ldquo;&lsquo;How do you know?&rsquo; they asked.
+
+<p>&ldquo;&lsquo;Wait a bit, you&apos;ll see,&rsquo; said sly Jakhals, winking his eye again.
+
+<p>&ldquo;At last the dam was finished, and that very night the rain began. It kept on and on, till the dam was quite full and the water began to run away over the veld, down to the great big dam called the Sea, that is the Mother of all water, and so broad, my baasjes, that truly you can&apos;t see the wall at the other side, even when you stand on a high kopje. Yes, so Outa has heard from truth-telling people. The milk-bushes and karroo-bushes grew green again, and the little veld flowers burst out of the hard ground, and opened their white, and blue, and pink, and purple eyes to look at the Sun. They were like variegated karosses spread out on the <pb id=pb94 n=94>veld, and the Old Man in the sky was not so fierce any more; he did not burn them with his hotness, but looked at them kindly.
+
+<p>&ldquo;And the animals were toch so glad for the water! From far and near they came to the dam to drink.
+
+<p>&ldquo;But Jakhals was before them all. Soon after the Sun went down&mdash;baasjes know, the wild animals sleep in the daytime and hunt in the night&mdash;he went to the dam and drank as much water as he wanted, and filled his clay pot with some to take home. Then he swam round and round to get cool, making the water muddy and dirty, and when the other animals came to drink, he slipped over the dam wall and was lost in the veld as if he had been a large pin.
+
+<p>&ldquo;My! but Oom Leeuw was very angry!
+
+<p>&ldquo;&lsquo;Hoorr-rr-rr,&rsquo; he roared, &lsquo;hoorr-rr-rr! What is this for a thing? Does the lazy one think he can share with the workers? Who ever heard of such a thing? Hoorr-rr-rr! Here, Broer Babiaan, take this big kierie and hide yourself by the dam to-night, so that <pb id=pb95 n=95>you can catch this Vagabond, this Water-stealer.&rsquo;
+
+<p>&ldquo;Early that night, there was Jakhals again. He peeped this way and that way&mdash;so, my baasjes,&mdash;and, yes truly, there was old Broer Babiaan lying amongst the bushes. But Jakhals was too schelm for him. He made as if he didn&apos;t see him. He danced along on his hind legs, all in the round, all in the round, at the edge of the dam, singing:&mdash;
+
+<lg>
+    <l>&lsquo;Hing-ting-ting! Honna-mak-a-ding!
+      <l rend="indent(2)">My sweet, sweet water!&rsquo;
+</lg>
+
+<p>&ldquo;He sang this over and over, and every time he came to the end of a line, he dipped his fingers into his clay pot and sucked them.
+
+<p>&ldquo;&lsquo;Aha! but my honey is nice,&rsquo; he said, licking his lips. &lsquo;What do I want with their old dirty water, when I have a whole potful of nice sweet water!&rsquo;
+
+<p>&ldquo;Baasjes know, baboons will do anything for honey, and when old Broer Babiaan heard Jakhals he forgot he was there to guard the dam. He crept out from his hiding-place, a <pb id=pb96 n=96>little nearer, and a little nearer, and at last he couldn&apos;t keep quiet any longer. When Jakhals came dancing along again, he called out in a great hurry, &lsquo;Good evening, Jakhals! Please give me a little of your sweet water, too!&rsquo;
+
+<p>&ldquo;&lsquo;Arré!&rsquo; said Jakhals, jumping to one side and pretending to be startled. &lsquo;What a schrik you gave me! What are you doing here, Broer Babiaan?&rsquo;
+
+<p>&ldquo;&lsquo;Ach no! Jakhals, I&apos;m just taking a little walk. It&apos;s such a fine night.&rsquo;
+
+<p>&ldquo;&lsquo;But why have you got that big kierie?&rsquo;
+
+<p>&ldquo;&lsquo;Only to dig out eintjes.&rsquo;
+
+<p>&ldquo;&lsquo;Do you really want some of my sweet water?&rsquo;
+
+<p>&ldquo;&lsquo;Yes, please, Jakhals,&rsquo; said Broer Babiaan, licking his lips.
+
+<p>&ldquo;&lsquo;And what will you give me for it?&rsquo;
+
+<p>&ldquo;&lsquo;I&apos;ll let you fill your pot with water from the dam.&rsquo;
+
+<p>&ldquo;&lsquo;Ach! I don&apos;t want any of that dirty old dam water, but I know how fond you are of this sweet water, Broer, so I&apos;ll let you drink <pb id=pb97 n=97>some. Here, I&apos;ll hold your kierie while you drink.&rsquo;
+
+<p>&ldquo;Boer Babiaan was in such a hurry to get to the honey that he just threw the kierie to Jakhals, but just as he was going to put his fingers into the pot, Jakhals pulled it away.
+
+<p>&ldquo;&lsquo;No, wait a bit, Broer,&rsquo; he said. &lsquo;I&apos;ll show you a better way. It will taste much nicer if you lie down.&rsquo;
+
+<p>&ldquo;&lsquo;Ach no! really, Jakhals?&rsquo;
+
+<p>&ldquo;&lsquo;Yes, really,&rsquo; said Jakhals. &lsquo;And if you don&apos;t lie down at once, you won&apos;t get a drop of my sweet water.&rsquo;
+
+<p>&ldquo;He spoke quite crossly, and Babiaan was so tame by this time that he was ready to believe anything, so he lay down, and Jakhals stood over him with his knapsack riem.
+
+<p>&ldquo;&lsquo;Now, Brother, first I&apos;ll tie you with my riem, and then I&apos;ll feed you with the honey.&rsquo;
+
+<p>&ldquo;&lsquo;Yes, yes,&rsquo; said Broer Babiaan quickly.
+
+<p>&ldquo;His mouth was watering for the honey; he couldn&apos;t think of anything else, and he had long ago forgotten all about looking after the dam. It goes so, my baasjes, when a <pb id=pb98 n=98>person thinks only of what he wants and not of what he must. So he let Jakhals tie his hands and feet, and even his tail, and then he opened his mouth wide.
+
+<p>&ldquo;But Jakhals only danced round and round, sticking his fingers into the pot and licking them, and singing:
+
+<lg>
+    <l>&lsquo;Hing-ting-ting! Honna-mak-a-ding!
+      <l rend="indent(2)">My sweet, sweet water!&rsquo;
+</lg>
+
+<p>&ldquo;&lsquo;Where&apos;s mine?&rsquo; called Broer Babiaan. &lsquo;You said you would feed me. Where&apos;s my sweet water?&rsquo;
+
+<p>&ldquo;&lsquo;Here&apos;s all the sweet water you&apos;ll get from me,&rsquo; said Jakhals, and&mdash;kraaks&mdash;he gave poor Broer Babiaan a hard hit with the kierie.
+
+<p>&ldquo;&lsquo;Borgom! Borgom! Help!&rsquo; screamed Broer Babiaan, and tried to roll away. But there was no one to help him, so he could only scream and roll over, and each time he rolled over, Jakhals hit him again&mdash;kraaks!
+
+<p>&ldquo;At last he squeezed the clay pot&mdash;and baasjes can believe me it had never had any honey in it at all&mdash;over Broer Babiaan&apos;s <pb id=pb99 n=99>head, while he ran off and drank as much water as he wanted, and swam, and stirred up the mud. Then he took the clay pot off Broer Babiaan&apos;s head, filled it with water, and danced off, singing:
+
+<lg>
+    <l>&lsquo;Hing-ting-ting! Honna-mak-a-ding!
+      <l rend="indent(2)">My sweet, sweet water!&rsquo;
+</lg>
+
+<p>&ldquo;&lsquo;Good-bye, Brother,&rsquo; he called out. &lsquo;I hope you&apos;ll enjoy the sweet water you&apos;ll get from Oom Leeuw when he sees how well you have looked after the dam.&rsquo;
+
+
+<figure id=p099>
+<head>The punishment of Broer Babiaan</head>
+
+<p rend="align(right)"><hi>Face page 99</hi>]
+</figure>
+
+
+<p>&ldquo;Poor Old Broer Babiaan was, ach! so miserable, but he was even more unhappy after Oom Leeuw had punished him and set him on a large stone for the other animals to mock at. Baasjes, it was sad! They came in a long string, big ones and little ones, and each one stopped in front of the big stone and stuck out his tongue, then turned round and stuck out his tail&mdash;yes, so rude they were to Broer Babiaan, till the poor old animal got ashameder and ashameder, and sat all in a heap, hanging down his head and trying not to see how they were mocking at him.
+
+<pb id=pb100 n=100><p>&ldquo;When all the animals had passed on and drunk water, Oom Leeuw untied Broer Babiaan and let him go, and off he went to the krantzes as fast as he could, with his tail between his legs.
+
+<p>&ldquo;And that is all for to-night, my baasjes. It is too long to finish now. See, here comes Lys with the baasjes&apos; supper, and Outa can smell that his askoekies are burning by the hut.&rdquo;
+
+<p>Evading the children&apos;s detaining hands, Outa sidled away, turning in the passage doorway to paw the air with his crooked fingers in token of a final farewell.
+
+
+
+
+<pb id=pb101 n=101>
+<div1 n=XI id=ch11>
+<head type=label>XI.</head>
+
+<head>Saved by his Tail.</head>
+
+
+<p>&ldquo;The end, Outa, please,&rdquo; said little Jan, &ldquo;the end of <hi>The Animals&apos; Dam</hi>. You said it was too long to finish last night.&rdquo;
+
+<p>&ldquo;Aja, my baasje, it&apos;s full of <hi>jakhals draaie</hi>, and that&apos;s why it is so long, but it&apos;s near the end now.
+
+<p>&ldquo;The night was old by the time the animals had finished with old Broer Babiaan, and the stars were going out. Only the Big Star, that lasts the longest, was travelling quickly by the Stars&apos; Road to call the Dawn. It began to get light already at the place where the shining Old Man gets up every day, and that meant it was time for the animals to fade away to their sleeping-places.
+
+<p>&ldquo;Oom Leeuw looked round on them. <pb id=pb102 n=102>&lsquo;Who will look after the dam to-night?&rsquo; he asked.
+
+<p>&ldquo;&lsquo;I will,&rsquo; said a little voice, quickly. &lsquo;Peep! peep!&rsquo;
+
+<p><corr>&ldquo;</corr>&lsquo;And who is this that speaks from the ground?&rsquo; asked Oom. &lsquo;Let us find this brave one.&rsquo;
+
+<p>&ldquo;They looked about in the sand, and there, under a milk-bush near the dam, sat the Water Tortoise. He was nice and big, baasjes, as big as the lid of the soap-pot, and his skinny legs were very strong. He stretched out his skinny neck and twinkled his little black eyes.
+
+<p>&ldquo;&lsquo;<hi>I</hi>&apos;ll look after the dam, Oom, and <hi>I</hi>&apos;ll catch the Water-Spoiler for you.&rsquo;
+
+<p>&ldquo;&lsquo;Ha! ha! ha! How will you do that?&rsquo; asked Oom Leeuw.
+
+<p>&ldquo;&lsquo;If Oom will just let someone rub my back with the sticky black stuff from the floor of the hives, then Oom will see what will happen.&rsquo;
+
+<p>&ldquo;&lsquo;This is a wise little man,&rsquo; said Oom Leeuw, and he ordered Old Brown Sister Hyena&mdash;she with the limp in the left hind <pb id=pb103 n=103>leg&mdash;to rub the Water Tortoise with the sticky stuff.
+
+<p>&ldquo;That night, my baasjes, when Jakhals went to the dam to drink, he peeped about, but no! there was no one to guard the dam; only a large black stone lay near the edge of the water.
+
+<p>&ldquo;&lsquo;Arré! this is lucky,&rsquo; said Jakhals. &lsquo;Such a nice large stone! I&apos;ll stand on it while I drink.&rsquo;
+
+<p>&ldquo;He didn&apos;t know that the stone had a strong skinny neck, and, on the end of the neck, a head with little bright eyes that could see everything that was going on. So he gave a jump, and&mdash;woops!&mdash;down he came on to the stone with his two front feet, and there they stuck fast to the sticky black stuff, and he could not move them. He tried, and he tried, but it was no use.
+
+<p>&ldquo;&lsquo;Toever!&rsquo; he screamed, &lsquo;toever! Let me go!&rsquo;
+
+<p>&ldquo;&lsquo;Peep! peep!&rsquo; said a little voice, &lsquo;don&apos;t be frightened.&rsquo;
+
+<p>&ldquo;&lsquo;Who says I&apos;m frightened, you old <pb id=pb104 n=104>toever stone?&rsquo; asked Jakhals. &lsquo;Though my front feet are fast, I can still kick with my hind feet.&rsquo;
+
+<p>&ldquo;&lsquo;Kick, kick, kick, and stick fast,&rsquo; said the little voice.
+
+<p>&ldquo;So Jakhals kicked and kicked, and his hind feet stuck fast.
+
+<p>&ldquo;There was a funny sound under the water, like water bubbling through a reed. It was the Water Tortoise laughing.
+
+<p>&ldquo;&lsquo;Nier-r-r! nier-r-r!&rsquo; said Jakhals, getting very cross; &lsquo;I&apos;ve still got a tail, and I&apos;ll beat you with it.&rsquo;
+
+<p>&ldquo;&lsquo;Beat, beat, beat, and stick fast,&rsquo; said the little voice.
+
+<p>&ldquo;So Jakhals beat and beat, and his tail stuck fast.
+
+<p>&ldquo;&lsquo;Nier-r-r!&rsquo; he said again, very angry; &lsquo;I&apos;ve still got a mouth, and I&apos;ll bite you with it.&rsquo;
+
+<p>&ldquo;&lsquo;Bite<corr>,</corr> bite, bite, and stick fast,&rsquo; said the little voice.
+
+<p>&ldquo;Jakhals opened his mouth, and bit and bit, and his mouth stuck fast. There he <pb id=pb105 n=105>was, all in a bundle, sticking altogether fast to the black stone, and the more he tried to get free, the more he stuck fast.
+
+<p>&ldquo;&lsquo;Peep, peep!&rsquo; said the Water Tortoise, poking up his head and laughing. Then he marched to the top of the dam-wall where everyone could see the strange sight, and there he sat, all quiet and good, till the other animals came.
+
+<p>&ldquo;&lsquo;Arré! they were glad when they saw Jakhals sticking to the Water Tortoise. They held a Council and ordered him to be killed, and Broer Hyena&mdash;old Brown Sister&apos;s husband&mdash;was to be the killer.
+
+<p>&ldquo;They loosened Jakhal&apos;s mouth from the sticky stuff, so that he could talk for the last time. He was very sorry for himself. His voice was thick with sorriness, and he could hardly get the words out.
+
+<p>&ldquo;&lsquo;Thank you, Oom,&rsquo; he said. &lsquo;I know I&apos;m a wicked creature. It&apos;s better for me to die than to live and trouble everyone so much.&rsquo;
+
+<p>&ldquo;Oom Leeuw and the other animals were <pb id=pb106 n=106>wondering what kind of death the Water-stealer should die.
+
+<p>&ldquo;&lsquo;Chop my head off,&rsquo; said Jakhals; &lsquo;throw me in the fountain, but please, ach! please don&apos;t shave my tail and hit me on the big stone.&rsquo;
+
+<p>&ldquo;Oom Leeuw and the others were still putting their heads together.
+
+<p>&ldquo;&lsquo;Beat me with kieries, drown me in the dam,&rsquo; said Jakhals, &lsquo;but don&apos;t, ach! please don&apos;t smear my tail with fat and hit me on the big stone.&rsquo;
+
+<p>&ldquo;Oom Leeuw and the others made as if they were taking no notice of him.
+
+<p>&ldquo;&lsquo;Chop me in little pieces, beat me with thorn branches,&rsquo; said Jakhals, &lsquo;but please, ach! please don&apos;t take me by the tail and hit me on the big stone.&rsquo;
+
+<p>&ldquo;At last Oom Leeuw turned round.
+
+<p>&ldquo;&lsquo;Just as you say, it shall be done. Shave his tail,&rsquo; he said to the others, &lsquo;smear it with fat, and hit his head on the big stone. Let it be done.&rsquo;
+
+<p>&ldquo;<corr sic="&lsquo;"></corr>So it was done, and Jakhals stood very still and sad while his tail was being shaved <pb id=pb107 n=107>and smeared. But when Hyena swung him round&mdash;one, two, three, pht!&mdash;away he slipped and ran over the veld as fast as he could. All the others ran after him, but they were only running to catch and he was running to live, so he went like the wind, and soon they were left far behind.
+
+<p>&ldquo;He never stopped till he came to a mountain where a krantz hung over and made a kind of cave, and in he crept. The first to come after him was Oom Leeuw, who had run faster than the others. Jakhals watched Oom crawling in, and when Oom&apos;s head touched the top of the cave, he ran out, calling:
+
+<p>&ldquo;&lsquo;Oom, Oom, the krantz is falling. If you don&apos;t hold it up, you&apos;ll be crushed to death. I&apos;ll run and get a pole to prop it up, but Oom must please wait till I come back.&rsquo;
+
+<p>&ldquo;He left Oom plastering his head against the krantz to hold it up, while&mdash;pht!&mdash;he shot away, and never stopped till he got safe home, where he rolled bolmakissie over and over, laughing to think how he had cheated all the animals again.&rdquo;
+
+
+
+
+<pb id=pb108 n=108>
+<div1 id=ch12 n=XII>
+<head type=label>XII.</head>
+
+<head>The Flying Lion.</head>
+
+
+<p>&ldquo;Once upon a time,&rdquo; remarked Outa, thoughtfully, &ldquo;Oom Leeuw used to fly.&rdquo;
+
+<p>&ldquo;O-o-o-oh!&rdquo; said the children all together, and their eyes widened with terror at the picture called up by Outa&apos;s words.
+
+<p>&ldquo;Yes, my baasjes, and then nothing could live before him. His wings were not covered with feathers: they were like the wings of Brother Bat, all skin and ribs; but they were very big, and very thick, and <hi>very</hi> strong, and when he wasn&apos;t flying they were folded flat against his sides. When he was angry he let the points down to the ground&mdash;tr-r-r-r&mdash;like Oubaas Turkey when he gobble-gobble-gobbles and struts before his wives&mdash;tr-r-r-r, and when he wanted to rise from the <pb id=pb109 n=109>ground he spread them out and flapped them up and down slowly at first&mdash;so, my baasjes; then faster and faster&mdash;so, so, so&mdash;till he made a big wind with them and sailed away into the air.&rdquo;
+
+<p>Outa, flapping his crooked arms and puffing out his disproportionate chest, seemed about to follow suit, but suddenly subsided again on to his stool.
+
+<p>&ldquo;Ach, but it was a terrible sight! Then, when he was high above the earth, he would look down for something to kill. If he saw a herd of springbokke he would fly along till he was just over them, and pick out a nice fat one; then he would stretch out his iron claws, fold his wings and&mdash;woops!&mdash;down he would fall on the poor bokkie before it had time to jump away. Yes, that was the way Oom Leeuw hunted in the olden times.
+
+<p>&ldquo;There was only one thing he was afraid of, and that was that the bones of the animals he caught and ate would be broken to pieces. No one knew why, and everyone was too frightened of Oom Leeuw to try and find out. <pb id=pb110 n=110>He used to keep them all at his home in the krantzes, and he had crows to look after them, two at a time&mdash;not like the ugly black crows that build in the willow-trees near the dam, but White Crows, the kind that come only once in many years. As soon as a white crow baby was found it was taken to Oom Leeuw&mdash;that was his order; then he kept it in the krantzes of the mountains and let it grow big; and when the old White Crows died the next eldest became watchmen, and so there were always White Crows to watch the bones when Oom Leeuw went hunting.
+
+<p>&ldquo;But one day while he was away Brother Big Bullfrog came along, hop-hop-hoppity-hop, hop-hop-hoppity-hop, and said: &lsquo;Why do you sit here all day, you Whitehead Crows?&rsquo;
+
+<p>&ldquo;And the White Crows said: &lsquo;We sit here to look after the bones for Oom Leeuw.&rsquo;
+
+<p>&ldquo;&lsquo;Ach, but you must be tired of sitting!&rsquo; said Brother Big Bullfrog, &lsquo;You fly away a little and stretch your wings. I will sit here and look after the bones.&rsquo;
+
+<pb id=pb111 n=111><p>&ldquo;The White Crows looked this way and that way, up and down and all round, but no! they couldn&apos;t see Oom Leeuw, and they thought: &lsquo;Now is our chance to get away for a fly.&rsquo;
+
+<p>&ldquo;So they said &lsquo;Cr-r-raw, cr-r-raw!&rsquo; and stretched out their wings and flew away.
+
+<p>&ldquo;Brother Big Bullfrog called out after them: &lsquo;Don&apos;t hurry back. Stay as long as you like. I will take care of the bones.&rsquo;
+
+<p>&ldquo;But as soon as they were gone he said: &lsquo;<hi>Now</hi> I shall find out why Oom Leeuw keeps the bones from being broken. <hi>Now</hi> I shall see why men and animals can live no longer.&rsquo; And he went from one end to the other of Oom Leeuw&apos;s house at the bottom of the krantz, breaking all the bones he could find.
+
+<p>&ldquo;Ach, but he worked quickly! Crack! crack, crack, crack! Wherever he went he broke bones. Then when he had finished he hopped away, hop-hop-hoppity-hop, hop-hop-hoppity-hop, as fast as he could. When he had nearly reached his dam in the veld, the White Crows overtook him. They had been <pb id=pb112 n=112>to the krantz and, foei! they <hi>were</hi> frightened when they saw all the broken bones.
+
+<p>&ldquo;&lsquo;Craw, craw!&rsquo; they said, &lsquo;Brother Big Bullfrog, why are you so wicked? Oom Leeuw will be so angry. He will bite off our nice white heads&mdash;craw, craw!&mdash;and without a head, who can live?&rsquo;
+
+<p>&ldquo;But Brother Big Bullfrog pretended he didn&apos;t hear. He just hopped on as fast as he could, and the White Crows went after him.
+
+<p>&ldquo;&lsquo;It&apos;s no good hopping away, Brother Bullfrog,&rsquo; they said. &lsquo;Oom Leeuw will find you wherever you are, and with one blow of his iron claws he will kill you.&rsquo;
+
+<p>&ldquo;But old Brother Big Bullfrog didn&apos;t take any notice. He just hopped on, and when he came to his dam he sat back at the edge of the water and blinked the beautiful eyes in his ugly old head, and said: &lsquo;When Oom Leeuw comes tell him I am the man who broke the bones. Tell him I live in this dam, and if he wants to see me he must come here.&rsquo;
+
+<pb id=pb113 n=113><p>&ldquo;The White Crows were very cross. They flew down quickly to peck Brother Big Bullfrog, but they only dug their beaks into the soft mud, because Brother Big Bullfrog wasn&apos;t sitting there any longer. Kabloops! he had dived into the dam, and the White Crows could only see the rings round the place where he had made a hole in the water.
+
+<p>&ldquo;Oom Leeuw was far away in the veld, waiting for food, waiting for food. At last he saw a herd of zebras&mdash;the little striped horses that he is very fond of&mdash;and he tried to fly up so that he could fall on one of them, but he couldn&apos;t. He tried again, but no, he couldn&apos;t. He spread out his wings and flapped them, but they were quite weak, like baasjes&apos; umbrella when the ribs are broken.
+
+<p>&ldquo;Then Oom Leeuw knew there must be something wrong at his house, and he was toch too angry. He struck his iron claws into the ground and roared and roared. Softly he began, like thunder far away rolling through the kloofs, then louder and louder, <pb id=pb114 n=114>till&mdash;hoor-rr-rr-rr, hoor-rr-rr-rr&mdash;the earth beneath him seemed to shake. It was a terrible noise.
+
+<p>&ldquo;But all his roaring did not help him, he couldn&apos;t fly, and at last he had to get up and walk home. He found the poor White Crows nearly dead with fright, but they soon found out that he could no longer fly, so they were not afraid of him.
+
+<p>&ldquo;&lsquo;Hoor-rr-rr-rr, hoor-rr-rr-rr!&rsquo; he roared. &lsquo;What have you done to make my wings so weak?&rsquo;
+
+<p>&ldquo;And they said: &lsquo;While Oom was away someone came and broke all the bones.&rsquo;
+
+<p>&ldquo;And Oom Leeuw said: &lsquo;You were put here to watch them. It is your fault that they are broken, and to punish you I am going to bite your stupid white heads off. Hoor-rr-rr-rr!&rsquo;
+
+<p>&ldquo;He sprang towards them, but now that they knew he couldn&apos;t fly they were not afraid of him. They flew away and sailed round in the air over his head, just too high for him to reach, and they called out: &lsquo;Ha! <pb id=pb115 n=115>ha! ha! Oom cannot catch us! The bones are broken, and his wings are useless. Now men and animals can live again. We will fly away and tell them the good news.&rsquo;
+
+<p>&ldquo;Oom Leeuw sprang into the air, first to one side and then to the other, striking at them, but he couldn&apos;t reach them, and when he found all his efforts were in vain, he rolled on the ground and roared louder than ever.
+
+<p>&ldquo;The White Crows flew round him in rings, and called out: &lsquo;Ha! ha! ha! he can no longer fly! He only rolls and roars! The man who broke the bones said: &ldquo;If Oom Leeuw wants me he can come and look for me at the dam.&rdquo; Craw, craw,&rsquo; and away they flew.
+
+<p>&ldquo;Then Oom Leeuw thought: &lsquo;Wait, I&apos;ll get hold of the one who broke the bones. I&apos;ll get him.&rsquo; So he went to the dam, and there was old Brother Bullfrog sitting in the sun at the water&apos;s edge. Oom Leeuw crept up slowly, quietly, like a skelm, behind Brother Bullfrog.
+
+<p>&ldquo;&lsquo;Ha! now I&apos;ve got him,&rsquo; he thought, and <pb id=pb116 n=116>made a spring, but Brother Bullfrog said, &lsquo;Ho!&rsquo; and dived in&mdash;kabloops!&mdash;and came up at the other side of the dam, and sat there blinking in the sun.
+
+<p>&ldquo;Oom Leeuw ran round as hard as he could, and was just going to spring, when&mdash;kabloops!&mdash;Brother Bullfrog dived in again and came up at the other side of the dam.
+
+<p>&ldquo;And so it went on. Each time, just when Oom Leeuw had nearly caught him, Brother Bullfrog dived in&mdash;kabloops!&mdash;and called out &lsquo;Ho!&rsquo; from the other side of the dam.
+
+<p>&ldquo;Then at last Oom Leeuw saw it was no use trying to catch Brother Bullfrog, so he went home to see if he could mend the broken bones. But he could not, and from that day he could no longer fly, only walk upon his iron claws. Also, from that day he learned to creep quietly like a skelm after his game, and though he still catches them and eats them, he is not as dangerous as he was when he could fly.
+
+<pb id=pb117 n=117><p>&ldquo;And the White Crows can no longer speak. They can only say, &lsquo;Craw, craw.&rsquo;
+
+<p>&ldquo;But old Brother Big Bullfrog still goes hop-hop-hoppity-hop round about the dam, and whenever he sees Oom Leeuw he just says &lsquo;Ho!&rsquo; and dives into the water&mdash;kabloops!&mdash;as fast as he can, and sits there laughing when he hears Oom Leeuw roar with anger.&rdquo;
+
+
+
+
+<pb id=pb118 n=118>
+<div1 id=ch13 n=XIII>
+<head type=label>XIII.</head>
+
+<head>Why the Heron has a Crooked Neck.</head>
+
+
+<p>The flames leapt gaily upward in the wide fireplace, throwing strange shadows on the painted walls and gleaming on the polished wood of floor and beam and cupboard. Little Jan basked contentedly in the warmth, almost dozing&mdash;now absently stroking the terrier curled up beside him, now running his fingers through the softer fur of the rug on which he lay. It was made of silver-jackal skins&mdash;a dozen of them, to judge from the six bushy tails spread out on either side; and as Outa Karel&apos;s gaze rested on them, he remarked reminiscently&mdash;
+
+<p>&ldquo;Arré! but Oom Jakhals was a slim kerel! No one ever got the better of <hi>him</hi> without paying for it.&rdquo;
+
+<pb id=pb119 n=119><p>In an instant little Jan was sitting bolt upright, every symptom of sleep banished from his face; the book from which Willem had been laboriously trying to gain some idea of the physical features of Russia was flung to the far end of the rustbank; while Pietie, suspending for a brief moment his whittling of a catapult stick, slid along the floor to get within better sight and sound of the story-teller.
+
+<p>&ldquo;Yes, my little masters, sometimes it was Oom Leeuw he cheated, sometimes it was Oubaas Babiaan or Oom Wolf, and once it was the poor little Dove, and that is what made me think of how he was cheated himself.&rdquo;
+
+<p>&ldquo;Did the little Dove cheat him?&rdquo; asked Pietie eagerly.
+
+<p>&ldquo;No, baasje, the Dove is too frightened&mdash;not stupid, baasje, but like people are when they are too gentle and kind and believe everything other people tell them. She was sitting on her nest one day singing to her little children, &lsquo;Coo-oo, coo-oo coo-oo,&rsquo; when <pb id=pb120 n=120>Oom Jakhals prowled along under the tree and heard her.
+
+<p>&ldquo;&lsquo;Alla wereld! Now I&apos;ll have a nice breakfast,&rsquo; he thought, and he called out, &lsquo;Good morning, Tante. I hear you have such pretty little children. Please bring them down for me to see.&rsquo;
+
+<p>&ldquo;But the Tante was frightened of Jakhals, and said, &lsquo;I&apos;m sorry, Oom, they are not well to-day, and I must keep them at home.&rsquo;
+
+<p>&ldquo;Then Jakhals lost his temper, and called out, &lsquo;Nonsense, I&apos;m hungry and want something to eat, so throw down one of your little children at once.&rsquo;
+
+<p>&ldquo;Baasjes know, sometimes crossness drives away frightenness; and Tante was so cross with Oom Jakhals for wanting to eat one of her little children that she called out, &lsquo;No, no, you bad Jakhals, I shall do nothing of the sort. Go away and look for other food.&rsquo;
+
+<p>&ldquo;&lsquo;If you don&apos;t, I&apos;ll fly up and eat them all,&rsquo; said Jakhals. &lsquo;Throw one down at once.&rsquo; And he stamped about and made such a horrible noise that the poor Tante <pb id=pb121 n=121>thought he was really flying up. She looked at her babies: there wasn&apos;t one she wanted to give, but it was better to lose one than have them all eaten; so she shut her eyes and fluttered about the nest till one of them fell out, and Jakhals caught it in his mouth and carried it off to his hole to eat.
+
+<p>&ldquo;Ach! but the poor Tante was sad! She spread her wings over her other children and never slept all night, but looked about this way and that way with her soft eyes, thinking every little noise she heard was Oom Jakhals trying to fly up to her nest to gobble up all her babies.
+
+<p>&ldquo;The next morning there was Oom Jakhals again. &lsquo;Tante, your child was a nice, juicy mouthful. Throw me down another. And make haste, do you hear? or I&apos;ll fly up and eat you all.&rsquo;
+
+<p>&ldquo;&lsquo;Coo-oo, coo-oo, coo-oo,&rsquo; said Tante, crying, &lsquo;no, I won&apos;t give you one.&rsquo; But it was no use, and in the end she did what she had done before&mdash;just shut her eyes and fluttered round and round till a baby fell out <pb id=pb122 n=122>of the nest. She thought there was no help for it, and, like some people are, she thought what the eye didn&apos;t see the heart wouldn&apos;t feel; but her heart was very sore, and she cried more sadly than ever, and this time she said, &lsquo;Oo-oo, oo-oo, oo-oo!&rsquo; It was very sad and sorrowful to listen to &lsquo;Oo-oo, oo-oo, oo-oo!&rsquo;
+
+<p>&ldquo;Here came old Oom Reijer. He is a kind old bird, though he holds his neck so crooked and looks like there was nothing to smile at in the whole wide world.
+
+<p>&ldquo;&lsquo;Ach! why do you cry so sadly, Tante? It nearly gives me a stitch in my side.&rsquo;
+
+<p>&ldquo;&lsquo;Oo-oo! I&apos;m very miserable. Oom Jakhals has eaten two of my little children, and to-morrow he will come for another, and soon I shall have none left.&rsquo;
+
+<p>&ldquo;&lsquo;But why did you let him eat them?&rsquo;
+
+<p>&ldquo;&lsquo;Because he said if I didn&apos;t give him one he would fly up and eat them all. Oo-oo-oo!&rsquo;
+
+<p>&ldquo;Then Oom Reijer was very angry. He flapped his wings, and stretched out his long neck&mdash;so, my baasjes, just so&rdquo; (the children <pb id=pb123 n=123>hugged themselves in silent delight at Outa&apos;s fine acting)&mdash;&ldquo;and he opened and shut his long beak to show how he would like to peck out Oom Jakhals&apos;s wicked eyes if he could only catch him.
+
+<p>&ldquo;&lsquo;That vervlakste Jakhals!&rsquo; he said. &lsquo;To tell such lies! But, Tante, you <hi>are</hi> stupid. Don&apos;t you know Oom Jakhals can&apos;t fly? Now listen to me. When he comes again, tell him you know he can&apos;t fly, and that you won&apos;t give him any more of your children.&rsquo;
+
+<p>&ldquo;The next day there came Oom Jakhals again with his old story, but Tante just laughed at him.
+
+<p>&ldquo;&lsquo;Ach, no! you story-telling Bushytail!&rsquo; she said, &lsquo;I won&apos;t give you any more of my little children, and you needn&apos;t say you&apos;ll fly up and eat them, because I know you can&apos;t.&rsquo;
+
+<p>&ldquo;&lsquo;Nier-r-r, nier-r-r!&rsquo; said Oom Jakhals, growling, &lsquo;how do you know that?&rsquo;
+
+<p>&ldquo;&lsquo;Oom Reijer told me, so there!&rsquo; said Tante. &lsquo;And you can just go to your mother!&rsquo;
+
+<p>&ldquo;My! but Tante was getting brave now <pb id=pb124 n=124>that she knew she and her little children were safe. That was the worst insult you can ever give a grown-up jakhals, and Oom Jakhals growled more than ever.
+
+<p>&ldquo;&lsquo;Never mind,&rsquo; he said at last, &lsquo;Tante is only a vrouwmens; I won&apos;t bother with her any more. But wait till I catch Oom Reijer. He&apos;ll be sorry he poked his long nose into my business, the old meddler,&rsquo; and he trotted off to look for him.
+
+<p>&ldquo;He hunted and hunted, and at last he found him standing on one leg at the side of the river, with his long neck drawn in and his head resting on his shoulders.
+
+<p>&ldquo;&lsquo;Good day, Oom Reijer,&rsquo; he said politely. &lsquo;How is Oom to-day?&rsquo;
+
+<p>&ldquo;&lsquo;I&apos;m all right,&rsquo; answered Oom Reijer shortly, without moving an inch.
+
+<p>&ldquo;Jakhals spoke in a little small voice&mdash;ach! toch so humble. &lsquo;Oom, please come this way a little: I&apos;m so stupid, but you are so wise and clever, and I want to ask your advice about something.&rsquo;
+
+<p>&ldquo;Oom Reijer began to listen. It is maar <pb id=pb125 n=125>so when people hear about themselves. He put down his other leg, stretched out his neck, and asked over his shoulder, &lsquo;What did you say, eh?&rsquo;
+
+<p>&ldquo;&lsquo;Come toch this way a little; the mud over there is too soft for me to stand on. I want your valuable advice about the wind. The other people all say I must ask you, because no one is as wise as you.&rsquo;
+
+<p>&ldquo;Truly Jakhals was a slim kerel! He knew how to stroke Oom Reijer&apos;s feathers the right way.
+
+<p>&ldquo;Oom Reijer came slowly over the mud&mdash;a person mustn&apos;t show he is too pleased: he even stopped to swallow a little frog on the way, and then he said, carelesslike, &lsquo;Yes, I can tell you all about the wind and weather. Ask what you like, Jakhals.&rsquo; His long neck twisted about with pride.
+
+<p>&ldquo;<corr>&lsquo;</corr>Oom, when the wind is from the west, how must one hold one&apos;s head?&rsquo;
+
+<p>&ldquo;&lsquo;Is that all?&rsquo; said Oom Reijer. &lsquo;Just so.&rsquo; And he turned his head to the east.
+
+<pb id=pb126 n=126><p>&ldquo;&lsquo;Thank you, Oom. And when the wind is from the east?&rsquo;
+
+<p>&ldquo;&lsquo;So.&rsquo; Oom Reijer bent his neck the other way.
+
+<p>&ldquo;&lsquo;Thank you, Oom,&rsquo; said the little small voice, so grateful and humble. &lsquo;But when there is a storm and the rain beats down, how then?&rsquo;
+
+<p>&ldquo;&lsquo;So!&rsquo; said Oom Reijer, and he bent his neck down till his head nearly touched his toes.
+
+<p>&ldquo;My little masters, just as quickly as a whip-snake shoots into his hole, so Jakhals shot out his arm and caught Oom Reijer on the bend of his neck&mdash;crack!&mdash;and in a minute the poor old bird was rolling in the mud with his neck nearly broken, and so weak that he couldn&apos;t even lift his beak to peck at the false wicked eyes that were staring at him.
+
+<p>&ldquo;O! how glad was cruel Jakhals! He laughed till he couldn&apos;t any more. He screamed and danced with pleasure. He waved his bushy tail, and the silver mane on his back bristled as he jumped about.
+
+<pb id=pb127 n=127><p>&ldquo;&lsquo;Ha! ha! ha! Oom thought to do me a bad turn, but I&apos;ll teach people not to interfere with me. Ha! ha! ha! No one is as wise as Oom Reijer, eh? Then he will soon find out how to mend his broken neck. Ha! ha! ha!&rsquo;
+
+<p>&ldquo;Jakhals gave one last spring right over poor Oom Reijer, and danced off to his den in the kopjes to tell Tante Jakhals and the little Jakhalsjes how he had cheated Oom Reijer.
+
+<p>&ldquo;And from that day, baasjes, Oom Reijer&apos;s neck is crooked: he can&apos;t hold it straight; and it&apos;s all through trying to interfere with Jakhals. That is why I said Jakhals is a slim kerel. Whether he walks on four legs or on two, the best is maar to leave him alone because he can always make a plan, and no one ever gets the better of him without paying for it in the end.&rdquo;
+
+
+
+
+<pb id=pb128 n=128>
+<div1 id=ch14 n=XIV>
+<head type=label>XIV.</head>
+
+<head>The Little Red Tortoise.</head>
+
+
+<p>&ldquo;No Jakhals story to-night, please, Outa,&rdquo; said little Jan, as they gathered round the fire. &ldquo;We all think Jakhals was a cruel horrid creature, eating the poor little Doves and cracking the good Heron&apos;s neck.&rdquo;
+
+<p>&ldquo;Yes,&rdquo; chimed in Pietie, &ldquo;he was always playing wicked tricks, so no more Jakhals for us. What will you tell us to-night, Outa?&rdquo;
+
+<p>&ldquo;Something really nice,&rdquo; suggested Willem, &ldquo;and not unkind.&rdquo;
+
+<p>Outa&apos;s beady black eyes twinkled from one to another of his little masters, while an affectionate smile spread over his yellow face, accentuating the wrinkles which criss-crossed it in every direction.
+
+<p>&ldquo;Ach! the soft young hearts! Outa&apos;s <pb id=pb129 n=129>heart was like that once, too, but&rdquo;&mdash;he shook his head&mdash;&ldquo;if the heart doesn&apos;t get a little taai like a biltong, it is of no use to a person in this old hard world.&rdquo; He deposited his shapeless hat on the floor, tapped his red kopdoek with a clawlike forefinger, and waited for an inspiration. It came from an unexpected quarter, for suddenly there was a commotion at the end of his old coat, the tails of which hung down nearly to the floor, and, diving into his pocket, the old man triumphantly produced a squirming tortoise.
+
+<p>&ldquo;See what Outa caught for the baasjes near the Klip Kop this afternoon&mdash;a nice little berg schilpad.<note n=1>Mountain tortoise.</note> Now Baas Willem can put it in his kraal with the others and let it lay eggs. It is still young, but it will grow&mdash;yes, <hi>so</hi> big.&rdquo; A cart-wheel might have been comfortably contained in the circle described by Outa&apos;s arms.
+
+<p>It was a knobbly, darkly-marked tortoise, quite unlike those the little boys generally found in the veld near the house, and they <pb id=pb130 n=130>took possession of it with delight and suggestions as to a name. After discussion, honours were equally in favour of &ldquo;Piet Retief&rdquo; and &ldquo;Mrs. Van Riebeeck,&rdquo; and it was decided that the casting vote should be left to Cousin Minnie, the children&apos;s governess.
+
+<p>For a long time they had kept tortoises of all sorts and sizes in their schilpad-kraal, and so tame and intelligent had some of these creatures grown that they would come when called, and big old &ldquo;Woltemade&rdquo; roamed about at will, often disappearing for a time, and returning to his companions after a few days in the veld.
+
+<p>Outa turned the new acquisition on its back on the jackalskin rug, where it lay wriggling and going through the strangest contortions. &ldquo;Ach! the wise little man. Is it there its mother sprinkled it with buchu,<note n=1>An aromatic veld herb, from which a decoction is made. Sprinkling buchu under the arm is a Hottentot custom in token of approval.</note> there, just under its arm?&rdquo; He touched the skinny under-side of one of its forelegs. <pb id=pb131 n=131>&ldquo;Here, Baas Willem, put it in the soap-boxie till to-morrow. Ach! if only it had been a red tortoise, how glad Outa would have been!&rdquo;
+
+<p>&ldquo;A red tortoise!&rdquo; echoed Pietie and little Jan, while Willem hurried back from the passage to hear all about it.
+
+<p>&ldquo;And have the baasjes then never heard of a red tortoise? Yes, certainly, sometimes a red one is born, but not often&mdash;only once in a thousand years; and when this happens the news is sent round, because it is such a wonderful thing; and the whole nation of Schilpads&mdash;those frogs with bony shields and hard beaks&mdash;are glad because they know the little red one has come to help them against their enemies.
+
+<p>&ldquo;Once a long, long time ago a mother Schilpad laid an egg in a shallow hole in the sand, just where the sun could warm it all the day, and she scraped a little sand over it, so that no one could see it. See baasjes, she was afraid of thieves. It was white and round, and so large that she felt very proud <pb id=pb132 n=132>of it, and she often went to see how it was getting on. One day, as she got near the place she heard a little voice: &lsquo;Peep! Peep! Mam-ma, mam-ma, come and find me.&rsquo;
+
+<p>&ldquo;So she called out, &lsquo;Kindje, kindje, here&apos;s your mam-ma.&rsquo; My! but she walked fast! Her short legs just went <hi>so</hi>&rdquo;&mdash;Outa&apos;s arms worked vigorously&mdash;&ldquo;and when she got to the karroo-bush where she had put the egg the shell was broken and a little Red Tortoise was sitting alongside of it!
+
+<p>&ldquo;His shell was soft, and you could see everything inside of him, and how the blood went this way and that way: but never mind, it is maar so with little tortoises. He was fine and healthy, and everything about him was quite red. <foreign lang=af>Alle wereld!</foreign> old Mam-ma was proud! She went and told all her friends, and they came from all sides to see the little Red Tortoise. There were berg tortoises, and vlakte tortoises, and zand-kruipers, and even water tortoises, young and old, and they all sat round and praised him and gave him good advice and nice things to eat.
+
+<pb id=pb133 n=133><p>&ldquo;He listened to everything and ate all the nice things, and grew bigger and redder and harder, but he didn&apos;t talk much, and the Old Ones nodded to each other and said, &lsquo;Ach, but he is sensible!&rsquo; But the Young Ones said, &lsquo;Ach, but he is stuck-up!&rsquo; and they went away and crawled in the red clay to make themselves red. But it was no good. In a little while it all rubbed off.
+
+<p>&ldquo;At last all the visitor Schilpads went home again. But the little Red Tortoise stayed with his Mam-ma, and went on growing bigger and redder and harder, and his Mam-ma was toch so proud of him!
+
+<p>&ldquo;When he walked in the veld and the other young tortoises said to him, &lsquo;Come, we&apos;ll show you the way to do things; you must do so, and you must do so,&rsquo; he said, &lsquo;You can do so if you like, but I&apos;ll do things my own way!&rsquo; And they said &lsquo;Stuck-up Red Thing! Wait, Oubaas Giraffe will get you!&rsquo; But they left him alone, and although they all wished they were red, they did not crawl in the clay any more: they knew it was no good. It was <pb id=pb134 n=134>only from outside, so it soon rubbed off, but the little Red One&apos;s redness was from inside; and baasjes know, for a thing to be any good it must be on the inside.&rdquo; He glanced involuntarily at the wall-cupboard where his soopje was safely locked up: it would certainly not be any good, in his opinion, till it was on the inside of him.
+
+<p>&ldquo;But when the Old Tortoises gave him advice, the little Red Tortoise listened and thanked them. He was a wise little man. He knew when to speak and when to hold his tongue.
+
+<p>&ldquo;At that time, my baasjes, the whole Tortoise nation was having a hard time with Oubaas Giraffe&mdash;that old horse with the long neck and the unequal legs, who is all white and black like a burnt thornbush<note n=1>The Mimosa, which is white when burnt by the sun.</note> with crows sitting on it. He gives blue ashes when he is burnt, therefore is he called the Blue One.
+
+<p>&ldquo;He had taken to eating tortoises. They didn&apos;t know what to do. They tried to make a plan, but no! they could find no remedy. <pb id=pb135 n=135>Whenever Oubaas Giraffe saw a nice young tortoise that he could easily swallow, he picked it up in his mouth, and from fright it pulled its head and all its feet into its shell, and&mdash;goops!&mdash;one swallow and it had sailed down the Blue One&apos;s long throat, just like baasjes sail down the plank at the side of the skeer-kraal.
+
+<p>&ldquo;The little Red Tortoise listened to the plans that were made, and at last <hi>he</hi> thought of a plan. He was not sure how it would go, but he was a brave little one, and he thought by himself, &lsquo;If it goes wrong, there will be no more little Red Tortoise: but if it goes right, then the whole Tortoise nation will be able to live again.&rsquo;
+
+<p>&ldquo;So what did he do, my baasjes? He crawled out far in the veld and sat in the path where the Old Blue One liked to walk. Soon he heard <hi>goof, goof, goof,</hi> coming nearer and nearer. Then the noise stopped. The little Red One peeped from under his shell. Yes, there was the great Blue One, standing over him and looking very fierce.
+
+<pb id=pb136 n=136><p>&ldquo;<corr>&lsquo;</corr>Do you know, little Red Tortoise, in one moment I could trample you to death?&rsquo;
+
+<p>&ldquo;The little Red One was very frightened, for this was not his plan, but he said nothing.
+
+<p>&ldquo;&lsquo;Do you know, little Red Tortoise, in one moment I could swallow you?&rsquo;
+
+
+<figure id=p136>
+<head>&ldquo;&lsquo;Do you know, little Red Tortoise, in one moment I could swallow you.&rsquo;&rdquo;</head>
+
+<p rend="align(right)"><hi>Face page 136</hi>]
+</figure>
+
+
+<p>&ldquo;Ach! how glad was the little Red Tortoise! But he only said in a small little voice, &lsquo;Yes, noble Blue One, I belong to the nation whom it is the custom to swallow. Please swallow me!&rsquo;
+
+<p>&ldquo;Oubaas Giraffe picked him up and gave a little gulp, and the little Red Tortoise slipped half-way down his long throat. But ojé! here a strange thing happened. The little Red One would go no further. Instead of drawing in his head and legs and slipping down like a stone, like all the other tortoises had done, he wanted to see where he was going, so he stuck out his head, and fastened his sharp little nails into Oubaas Giraffe&apos;s gullet, and there he hung like a bat on a wall.
+
+<p>&ldquo;&lsquo;Go down, go down, little Tortoise! <pb id=pb137 n=137>You choke me!&rsquo; The Old Blue One could hardly speak; his throat was so full of tortoise.
+
+<p>&ldquo;&lsquo;Peep! peep!&rsquo; said the little Red One, and held on more tightly than ever.
+
+<p>&ldquo;&lsquo;Come up, come up, little Tortoise! You kill me!&rsquo; The Old Blue One was stamping and gurgling now.
+
+<p>&ldquo;&lsquo;Peep! peep!&rsquo; said the little Red One, and hung on with his hard bent beak as well. He thought, &lsquo;No! too many of my nation have sailed down this red sloot. I won&apos;t let go.&rsquo;
+
+<p>&ldquo;I tell you, baasjes, Oubaas Giraffe danced and pranced over the veld; he screamed and bellowed; he gurgled and swallowed; he tried to get the little Red Tortoise down, and he tried to get him up; but it was no use. The little Red One clung fast to him till he was quite choked, and sank down in the sand and died.
+
+<p>&ldquo;Then the little Red Tortoise crawled out, and went home to tell his Mam-ma that he had killed Oubaas Giraffe and that his nation <pb id=pb138 n=138>could have peace again. Ach! but she was proud of him!
+
+<p>&ldquo;&lsquo;It&apos;s not for nothing you were born red,&rsquo; she said. &lsquo;Come here, my little Crab, that I may put buchu under your arm. Come, my crooked-legged little one, let your mother sprinkle you with buchu!&rsquo;
+
+<p>&ldquo;When she had sprinkled him with buchu, they went and told their friends, and all the Tortoise nation rejoiced and went and had a great feast off Oubaas Giraffe as he lay dead in the veld.
+
+<p>&ldquo;And they thought more of the little Red Tortoise than ever. Even the Young Ones, who had been angry with him, said, &lsquo;He is wiser than we are. We will listen to what he says. P&apos;r&apos;aps, after all, there is something in being born a certain colour.&rsquo;&rdquo;
+
+
+
+
+<pb id=pb139 n=139>
+<div1 id=ch15 n=XV>
+<head type=label>XV.</head>
+
+<head>The Ostrich Hunt.</head>
+
+
+<p>The next day all the time that was not given to lessons and meals was spent by the little boys in scouring the veld for a red tortoise. Disappointment at their fruitless search found vent in no measured terms when Outa Karel appeared in the dining-room at his usual hour.
+
+<p>&ldquo;Ach, to hear them now!&rdquo; he said, regarding them with his wide-mouthed smile of amused tolerance. &ldquo;Does it then rain red tortoises? And how can the baasjes think they will find at the first shot a thing that only comes once in a thousand years?&rdquo;
+
+<p>&ldquo;Well,&rdquo; said Willem, stoutly, &ldquo;it might just have been the time for one. How were we to know?&rdquo;
+
+<pb id=pb140 n=140><p>&ldquo;Outa,&rdquo; asked little Jan, earnestly, &ldquo;do you know when it will be red tortoise time again?&rdquo;
+
+<p>&ldquo;Aja, baasjes,&rdquo; said Outa readily, &ldquo;it won&apos;t be long now. Let Outa think.&rdquo; He performed a tattoo on the red kopdoek&mdash;a sure sign that he was in the thick of mental gymnastics. &ldquo;What comes just before a thousand, my baasjes?&rdquo;
+
+<p>&ldquo;Nine hundred and ninety-nine,&rdquo; answered Pietie, who was good at arithmetic.
+
+<p>&ldquo;Now, yes,&rdquo; said Outa, triumphantly, &ldquo;I knew it must be nearly time. It is nine hundred and ninety-nine years since there was a red tortoise, so next year this time baasjes can begin to look for one. Only <hi>begin</hi>, my baasjes, because it will only be creeping out of the egg then. And p&apos;r&apos;aps it won&apos;t be in this veld. It might be far, far away where people don&apos;t know about a red tortoise, and so no one will look for him. Must Outa tell another story about him?&rdquo;
+
+<p>The sly old man had taken the best way of escaping more questions. The little boys <pb id=pb141 n=141>gathered round and listened wide-eyed as he told the story of the Tortoises hunting the Ostriches.
+
+<p>&ldquo;After Oubaas Giraffe was dead, the Tortoises had a nice life for a long time, and then there came into their veld Old Three Sticks, the Ostrich, with his mam-ma and pap-pa, and his wives, and uncles, and aunties, and children, and friends. Alla! there were a lot of Ostriches! The whole veld was full of them, and they all began eating tortoises wherever they could find them. It was just the same like when Oubaas Giraffe used to go about. And the tortoises thought and thought, and they talked and talked, but they couldn&apos;t make a plan that would drive the Ostriches away.
+
+<p>&ldquo;The little Red Tortoise was thinking, too, but he didn&apos;t talk till he had his plan ready. Then he called all the Tortoises together. The Old Ones came because they wanted to hear what the wise little Red One had to say, and the Young Ones came because ever since he had killed Oubaas Giraffe <pb id=pb142 n=142>they had listened to him. When they were all together he said, &lsquo;It now goes on too long, this hunting of the Tortoises by Old Three Sticks and his friends. Let us change places and let us, the Tortoise people, go and hunt Ostriches.&rsquo;
+
+<p>&ldquo;&lsquo;Peep! peep!&rsquo; cried all the young Tortoises: they were quite ready. But the Old Ones said, &lsquo;Is this the wise little Red One? How is it possible for us to hunt Ostriches?&rsquo;
+
+<p>&ldquo;&lsquo;It is possible, because Ostriches never run straight, but always a little in the round, and a little in the round, so that in the end if they run long enough they come again to the place they began from. Now yes, on a certain day let us then go into the veld where the Ostriches like to hunt, and let us make two long rows, not straight out but always in the round; one ring, very large, outside, and the other, smaller, inside. Then when Old Three Sticks and his friends come we will call one to the other and drive them on, and they will flee through the midst of <pb id=pb143 n=143>us, round and round and round till they can flee no longer.&rsquo;
+
+<p>&ldquo;&lsquo;Peep! peep!&rsquo; said the young Tortoises, and the Old Ones joined in. They saw that it was a good plan, so they all went to the hunting veld of Old Three Sticks and his friends and spread themselves out, as the little Red Tortoise had said.
+
+<p>&ldquo;Soon the Ostriches came, pecking, pecking, as they walked.
+
+<p>&ldquo;The Tortoises sat very still, waiting, my baasjes, just waiting, till the Ostriches were right in the middle of the two rings. Then the little Red Tortoise gave the signal, &lsquo;Peep! Peep!&rsquo; and at once the calling began.
+
+<p>&ldquo;&lsquo;Are you there?&rsquo; called the first Tortoise.
+
+<p>&ldquo;&lsquo;I am here,&rsquo; said the next, and so it went on all round the circle, one calling to the other.
+
+<p>&ldquo;&lsquo;What are you doing?&rsquo; called the first one.
+
+<p>&ldquo;<corr>&lsquo;</corr>Hunting Ostriches,&rsquo; said the next, and so it went on all round the circle again, one calling to the other.
+
+<pb id=pb144 n=144><p>&ldquo;The Ostriches could see nothing. They could only hear voices calling. They looked at each other and said, &lsquo;What are these voices? It is surely a great army come to hunt us. Let us get away.&rsquo;
+
+<p>&ldquo;They were very frightened and began to run, and as far as they ran they heard:&mdash;
+
+<p>&ldquo;&lsquo;Are you there?&rsquo;
+
+<p>&ldquo;&lsquo;I am here.&rsquo;
+
+<p>&ldquo;&lsquo;What are you doing?&rsquo;
+
+<p>&ldquo;&lsquo;Hunting Ostriches.&rsquo;
+
+<p>&ldquo;So it went on, over and over again. The Tortoises never moved, only kept calling out. And the Ostriches ran faster and faster, all in the round, till at last they were so tired they couldn&apos;t run any more. First one fell, and then another, and another, and another, till there were heaps of them lying about, and just where they fell they lay quite still. They were too tired to move.
+
+
+<figure id=p144>
+<head>&ldquo;The Ostriches ran faster and faster&rdquo;</head>
+
+<p rend="align(right)"><hi>Face page 144</hi>]
+</figure>
+
+
+<p>&ldquo;Then the Tortoises gathered together&mdash;they were very many&mdash;and they bit Old Three Sticks and all his family and friends on their long necks and killed them.
+
+<pb id=pb145 n=145><p>&ldquo;Since then the Tortoises have had peace from the Long-necked People&mdash;Oubaas Giraffe and old Three Sticks. It is only the Things of the Air, like Crows and Lammervangers, that still hunt them, and baasjes know how <hi>they</hi> do? They catch a poor Tortoise in their claws and fly away with him, high up over a kopje, and then they drop him on the stones&mdash;kabloops!&mdash;and there he lies with his shell all broken, and without a shell how can a Tortoise live? And then the Thing of the Air comes and eats him up, and that is the end of the poor Tortoise. But a Red Tortoise they never touch. It is his colour, baasjes, that frightens them. So the Young Tortoises were right when they said, &lsquo;There is something, after all, in being born a certain colour.&rsquo;
+
+<p>&ldquo;After the Ostrich hunt, the little Red Tortoise was sprinkled with buchu under both arms, and his Mam-ma sang him this song:&mdash;
+
+<lg><lg>
+    <l>The little crook-legged one! I could sprinkle it,
+    <l>Sprinkle it with buchu under its arms.
+    </lg>
+
+    <pb id=pb146 n=146><lg>
+    <l>The little red crab! The little Wise One!
+    <l>I sprinkle the buchu under both arms.
+    </lg>
+
+    <lg>
+    <l>For the Long-necks, they that ate us,
+    <l>It has found a way to kill them;
+    </lg>
+
+    <lg>
+    <l>So we sprinkle it, the little Red One,
+    <l>Sprinkle the buchu under both arms.&rdquo;
+</lg></lg>
+
+<p>The usual discussion took place when Outa had finished, and at last Pietie said, &ldquo;If I had to be a Tortoise, I&apos;d be a red one.&rdquo;
+
+<p>&ldquo;Why, my little master?&rdquo;
+
+<p>&ldquo;Because the Crows and Lammervangers don&apos;t catch it. To be swallowed by an ostrich or stick in a giraffe&apos;s throat would not be so bad, but I&apos;d hate to be broken on the stones.&rdquo;
+
+<p>&ldquo;Ach! my baasje, no matter how Old Friend Death comes, we are never ready for him. When Outa was young he was nearly killed by a troop of springbucks, and he thought, &lsquo;No, not toch trampled to death; to be carried down the river is better.&rsquo; But when the flood came and the river carried Outa away, he fought for his life just as hard as when the springbucks were on him. It was the same when the hut was burnt, and when <pb id=pb147 n=147>the mad bull chased Outa across the veld. Over and over again the same. Always another sort of death seems better. Always Old Friend Death finds a man not quite ready for him.&rdquo;
+
+<p>&ldquo;And <hi>now</hi> how would you like him to find you, Outa?&rdquo; asked Willem with much interest.
+
+<p>A whimsical smile spread over the old man&apos;s face. &ldquo;Ach! to hear him! Just sitting in the sun, my baasje, by the skeer-kraal wall, where I have sat for so many, many years. When he comes I will say, &lsquo;Morning, Old Friend, you have been a long time on the road&mdash;ach! so long, that I am tired of waiting. Let us go at once.&rsquo; A person needn&apos;t pack up for that trek, baasjes. I&apos;ll just drop my old sheepskin kaross, and take Old Friend Death&apos;s hand and let him show me the way. It is far, my baasjes, far to that land, and no one ever comes back from it. Then someone else will tell the stories by the fire: there will be no Outa any more to talk to the little masters.&rdquo; His voice had dropped to a musing tone.
+
+<pb id=pb148 n=148><p>&ldquo;Don&apos;t! Don&apos;t!&rdquo; cried Pietie in a choked voice.
+
+<p>&ldquo;Outa, you mustn&apos;t say such things,&rdquo; said Willem, and they each seized one of Outa&apos;s crooked hands, while little Jan clung to his old coat as though he would never let it go.
+
+<p>&ldquo;I want my Outa,&rdquo; he cried. &ldquo;He mustn&apos;t go away. I want my Outa Karel!&rdquo;
+
+<p>The old man&apos;s eyes glistened with a moisture not often seen in them. &ldquo;Still! still! my little baasjes,&rdquo; he said, stroking first one and then another. &ldquo;Outa doesn&apos;t want to make them sad. He is not going yet. He will sit here and tell his foolish stories for many nights yet.&rdquo; A caressing smile broke over his grotesque face. &ldquo;And do they then want to keep their Outa? Ach! to think of it! The kind little hearts! But what will the Nooi say if the eyes are juicy? No, Outa only said about the skeer-kraal and sitting in the sun because it sounds so nice and friendly. Look how lively and well Outa is&mdash;like a young bull-calf!&rdquo; He pretended playfully to toss them. &ldquo;That&apos;s right, my <pb id=pb149 n=149>children, now you laugh again. But young bull-calves must also go in the kraal, and the hut is calling Outa. Night, my baasjes, night, night. Sleep well. To-morrow Outa will tell them another beautiful story. Ach, the dear little ones! So good to their ugly Outa!&rdquo;
+
+<p>Followed by a chorus of &ldquo;good-nights&rdquo; from the children; the old man shuffled away, not knowing that he had spoken with prophetic voice, and that Friend Death would find him, even as he wished, sitting in the sun by the skeer-kraal.
+
+<p>But that was not yet awhile, and he told many stories before setting out on the Great Trek for the Unknown Veld whence no traveller returns.
+
+
+<div1 type=Imprint id=imprint2>
+
+
+<p rend="align(center)">Glasgow: Printed at the University Press by Robert Maclehose and Co. Ltd.
+
+
+
+<pb id=pb150 n=150>
+</body>
+<back id=backmatter>
+<div1 type=Advertisements id=ads>
+<head>Other Folk-Lore Tales</head>
+
+
+<p>FAIRY TALES FROM SOUTH AFRICA. Collected and arranged by Mrs. <hi rend=sc>E. J. Bourhill</hi> and Mrs. <hi rend=sc>J. B. Drake</hi>. Illustrated by <hi rend=sc>W. Herbert Holloway</hi>. Crown 8vo. 3s. 6d.
+
+    <q rend=block><p><hi>ATHENAEUM.</hi>&mdash;&ldquo;A charming collection of stories which would make a capital gift-book for children.... The illustrations by Mr. W. H. Holloway are exceedingly good.&rdquo;</q>
+
+    <q rend=block><p><hi>OUTLOOK.</hi>&mdash;&ldquo;Not only are the stories admirably related and of absorbing interest, as true folk-tales should be, but they are materially aided by Mr. Holloway&apos;s splendid black-and-whites.&rdquo;</q>
+
+
+<p><xref url="pg:1605">THE CROCK OF GOLD</xref>. By <hi rend=sc>James Stephens</hi>. Crown 8vo.  5s. net.
+
+    <q rend=block><p><hi>EVENING STANDARD.</hi>&mdash;&ldquo;A delicate fairy extravaganza, difficult to class with any other book. It has extraordinary flashes of beauty, any amount of whimsical humour, and ends in an ecstasy that has about it a touch of Borrow and a note from the very flute of Pan.&rdquo;</q>
+
+    <q rend=block><p><hi>PUNCH.</hi>&mdash;&ldquo;A fairy fantasy, elvish, grotesque, realistic, allegorical, humorous, satirical, idealistic, and poetical by turns ... and very beautiful.&rdquo;</q>
+
+
+<p><xref url="pg:54724">FOLK TALES OF BREFFNY</xref>. By <hi rend=sc>B. Hunt</hi>. Crown 8vo. 3s. 6d. net.
+
+    <q rend=block><p><hi>SPECTATOR.</hi>&mdash;&ldquo;Wholly delightful volume.... These folk-tales are rich in the qualities of poetry, wit, and intelligence, and though the part which Miss Hunt has played is not that of a creator, her versions are marked by such unfailing charm, such happy and characteristic turns of phrase, that she deserves to rank with those musicians like Francis Korbay, who have lent fresh lustre to folk tunes by the beauty and picturesqueness of their settings.&rdquo;</q>
+
+
+
+<!-- LONDON: MACMILLAN AND CO., Ltd. -->
+<pb id=pb151 n=151>
+
+<!-- Other Folk-Lore Tales -->
+
+
+<p><xref url="pg:38488">FOLK TALES OF BENGAL</xref>. By the Rev. <hi rend=sc>Lal Behari Day</hi>. Crown 8vo. 4s. 6d. Also with 32 Illustrations in Colour by <hi rend=sc>Warwick Goble</hi>. Crown 4to. 15s. net. <hi>Edition de Luxe.</hi> Demy 4to. 42s. net.
+
+    <q rend=block><p><hi>MORNING POST.</hi>&mdash;&ldquo;As a faithful mirror of Bengali beliefs by no means extinct, they can be cordially recommended to lovers of supernatural romance. Mr. Warwick Goble has provided them also with charming illustrations, in which the lines and folds of Eastern drapery, the blues and greens of forests and skies, together with the dignity and simplicity of the figures, make up an enchantment which few will be able to resist.&rdquo;</q>
+
+
+<p>PAPUAN FAIRY TALES. By <hi rend=sc>Annie Ker</hi>. Illustrated. Extra Crown 8vo.  5s. net.
+
+    <q rend=block><p><hi>WESTMINSTER GAZETTE.</hi>&mdash;&ldquo;Some of the charm of the stories is without a doubt due to the charm of Miss Ker&apos;s manner of retelling the tales; but she had fair material to work upon, and the volume, with its photographic illustrations of native life, is quite delightful, and will interest general readers as well as specialists in folk-lore.&rdquo;</q>
+
+
+<p><xref url="pg:13015">TALES OF OLD JAPAN</xref>. By <hi rend=sc>Lord Redesdale</hi>. Illustrated. Crown 8vo. 3s. 6d. Globe 8vo.  1s. net.
+
+    <q rend=block><p><hi>NOTES AND QUERIES.</hi>&mdash;&ldquo;By far the most striking, instructive, and authentic book upon Japan and the Japanese which has ever been laid before the English reader.&rdquo;</q>
+
+
+<p><xref url="pg:26070">CHINESE FOLK-LORE TALES</xref>. By Rev. <hi rend=sc>J. Macgowan</hi>, D.D. Crown 8vo.  3s. net.
+
+    <q rend=block><p><hi>DAILY NEWS.</hi>&mdash;&ldquo;This is a most interesting volume of stories.... A book which has given us great pleasure.&rdquo;</q>
+
+
+<p rend="align(center)">LONDON: MACMILLAN AND CO., <hi rend=sc>Ltd.</hi>
+
+
+</div1>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>

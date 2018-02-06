@@ -1,0 +1,26 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="218" filedate="2010-02-11 21:03:56" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2010-02-11 21:03:56" width="12px" height="12px">
+</image>
+<image path="images/frontcover.jpg" filesize="113087" filedate="2011-03-11 22:22:07" width="456px" height="720px">
+</image>
+<image path="images/logo.png" filesize="2212" filedate="2011-03-12 08:36:38" width="191px" height="58px">
+</image>
+<image path="images/p000.jpg" filesize="68982" filedate="2011-03-11 22:27:54" width="476px" height="720px">
+</image>
+<image path="images/p064.jpg" filesize="141399" filedate="2011-03-11 22:30:37" width="482px" height="720px">
+</image>
+<image path="images/p081.jpg" filesize="100527" filedate="2011-03-11 22:32:55" width="720px" height="494px">
+</image>
+<image path="images/p099.jpg" filesize="116666" filedate="2011-03-11 22:34:58" width="720px" height="475px">
+</image>
+<image path="images/p136.jpg" filesize="100712" filedate="2011-03-11 22:36:54" width="467px" height="720px">
+</image>
+<image path="images/p144.jpg" filesize="122471" filedate="2011-03-11 22:38:47" width="720px" height="468px">
+</image>
+<image path="images/titlepage.gif" filesize="9231" filedate="2011-03-11 22:25:32" width="447px" height="720px">
+</image>
+</images>
