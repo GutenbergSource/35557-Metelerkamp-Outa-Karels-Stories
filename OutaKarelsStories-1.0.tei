@@ -1,4 +1,14 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+    <!ENTITY apos   CDATA "&#x2019;"  --     389 -->
+    <!ENTITY ldquo  CDATA "&#x201C;"  --     645 -->
+    <!ENTITY lsquo  CDATA "&#x2018;"  --     367 -->
+    <!ENTITY mdash  CDATA "&#x2014;"  --     271 -->
+    <!ENTITY ndash  CDATA "&#x2013;"  --       2 -->
+    <!ENTITY rdquo  CDATA "&#x201D;"  --     240 -->
+    <!ENTITY rsquo  CDATA "&#x2019;"  --     364 -->
+
+]>
 <TEI.2 lang=en>
 <teiHeader>
 <fileDesc>
@@ -22,7 +32,7 @@
 <availability>
 <p>&availability.en;
 
-<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref> from a copy available at <xref url="http://www.archive.org/details/outakarelsstorie00mete">The Internet Archive</xref>. (<xref url="http://www.archive.org/details/outakarelsstorie00meterich">Another copy</xref>).
+<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref> from a copy available at <xref url="https://www.archive.org/details/outakarelsstorie00mete">The Internet Archive</xref>. (<xref url="https://www.archive.org/details/outakarelsstorie00meterich">Another copy</xref>).
 
 </availability>
 </publicationStmt>
@@ -61,7 +71,7 @@
     </list>
 </revisionDesc>
 </teiHeader>
-<text>
+<text rend="stylesheet(style/classic.css)">
 <front id=frontmatter>
 <div1 id=cover type=Cover>
 
@@ -110,10 +120,10 @@
 </figure>
 
 <pb n=iii>
-<div1 id=tp type=TitlePage>
+<div1 id=titlepage type=TitlePage>
 
 
-<p><figure id=titlepage rend="image(images/titlepage.gif)">
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
 <figDesc>Original Title Page.</figDesc>
 </figure>
 
@@ -633,7 +643,7 @@
 
 <p>&ldquo;Only the cubs were left wailing over the dead King of the Forest.&rdquo;
 
-<milestone unit=tb rend="dotline">
+<milestone unit=tb rend=dots>
 
 <p>The usual babel of question and comment broke out at the close of the story, till at last Pietie&apos;s decided young voice detached itself from the general chatter.
 
@@ -924,7 +934,7 @@
 
 <p>&ldquo;When a star falls,&rdquo; said the old man impressively, &ldquo;it tells us someone has died. For the star knows when a person&apos;s heart fails and the person dies, and it falls from the sky to tell those at a distance that someone they know has died.<note n=1>It is both curious and interesting to find the identical belief obtaining amongst races so widely different as the Scandinavians of Northern Europe and the Bushmen of South Africa.&mdash;See Hans Andersen&apos;s <hi>Little Match Girl</hi>: &ldquo;Her Grandmother had told her that when a star fell down a soul mounted up to God.&rdquo;</note>
 
-<pb id=pb67 n=67><p>&ldquo;One star grew and grew till he was much larger than the others. He was the Great Star, and, singing, he named the other stars. He called each one by name, till they all had their names, and in this way they knew that he was the Great Star. No other could have done so. Then when he had finished, they all sang together and praised the Great Star, who had named them.<note n=1>&ldquo;When the morning stars sang together, and all the sons of God shouted for joy.&rdquo;&mdash;<xref url="bib:job 38:7">Job xxxviii. 7</xref>.</note>
+<pb id=pb67 n=67><p>&ldquo;One star grew and grew till he was much larger than the others. He was the Great Star, and, singing, he named the other stars. He called each one by name, till they all had their names, and in this way they knew that he was the Great Star. No other could have done so. Then when he had finished, they all sang together and praised the Great Star, who had named them.<note n=1>&ldquo;When the morning stars sang together, and all the sons of God shouted for joy.&rdquo;&mdash;<xref url="bib:jb 38:7">Job xxxviii. 7</xref>.</note>
 
 <p>&ldquo;Now, when the day is done, they walk across the sky on each side of the Stars&apos; Road. It shows them the way. And when Night is over, they turn back and sail again by the Stars&apos; Road to call the Daybreak, that goes before the Sun. The Star that leads the way is a big bright star. He is called the Dawn&apos;s-Heart Star, and in the dark, dark hour, before the Stars have called the Dawn, he shines&mdash;ach! baasjes, he is beautiful to behold! The wife and the child of the Dawn&apos;s-Heart Star are pretty, too, but not so big and bright as he. They sail on in <pb id=pb68 n=68>front, and then they wait&mdash;wait for the other Stars to turn back and sail along the Stars&apos; Road, calling, calling the Dawn, and for the Sun to come up from under the world, where he has been lying asleep.
 
